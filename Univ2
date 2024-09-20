@@ -14,7 +14,871 @@
   ],
 
   "tokens": [
-    [
+   [
+  {
+    "chainId": 1,
+    "address": "0x21b8065d10f73ee2e260e5b47d3344d3ced7596e",
+    "name": "UniswapV2 LP WISE/WETH",
+    "symbol": "WISE/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0d4a11d5eeaac28ec3f61d100daf4d40471f1852",
+    "name": "UniswapV2 LP WETH/USDT",
+    "symbol": "WETH/USDT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb4e16d0168e52d35cacd2c6185b44281ec28c9dc",
+    "name": "UniswapV2 LP USDC/WETH",
+    "symbol": "USDC/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa43fe16908251ee70ef74718545e4fe6c5ccec9f",
+    "name": "UniswapV2 LP PEPE/WETH",
+    "symbol": "PEPE/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x12490e03f079fa7e3c20e9bf797bdb7a7f495fd4",
+    "name": "UniswapV2 LP ALFA/WETH",
+    "symbol": "ALFA/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9c4fe5ffd9a9fc5678cfbd93aa2d4fd684b67c4c",
+    "name": "UniswapV2 LP PAXG/WETH",
+    "symbol": "PAXG/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xca7c2771d248dcbe09eabe0ce57a62e18da178c0",
+    "name": "UniswapV2 LP WETH/FLOKI",
+    "symbol": "WETH/FLOKI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa478c2975ab1ea89e8196811f51a7b7ade33eb11",
+    "name": "UniswapV2 LP DAI/WETH",
+    "symbol": "DAI/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc2eab7d33d3cb97692ecb231a5d0e4a649cb539d",
+    "name": "UniswapV2 LP Mog/WETH",
+    "symbol": "Mog/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe28ea5c12c2f83390c3448b6e3781d459937b7b1",
+    "name": "UniswapV2 LP COSMIC/WETH",
+    "symbol": "COSMIC/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbb2b8038a1640196fbe3e38816f3e67cba72d940",
+    "name": "UniswapV2 LP WBTC/WETH",
+    "symbol": "WBTC/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7b73644935b8e68019ac6356c40661e1bc315860",
+    "name": "UniswapV2 LP ELON/WETH",
+    "symbol": "ELON/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x180efc1349a69390ade25667487a826164c9c6e4",
+    "name": "UniswapV2 LP BEAM/WETH",
+    "symbol": "BEAM/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x09d1d767edf8fa23a64c51fa559e0688e526812f",
+    "name": "UniswapV2 LP OLAS/WETH",
+    "symbol": "OLAS/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x43de4318b6eb91a7cf37975dbb574396a7b5b5c6",
+    "name": "UniswapV2 LP BANANA/WETH",
+    "symbol": "BANANA/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9ec9367b8c4dd45ec8e7b800b1f719251053ad60",
+    "name": "UniswapV2 LP 0x0/WETH",
+    "symbol": "0x0/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc555d55279023e732ccd32d812114caf5838fd46",
+    "name": "UniswapV2 LP Neiro/WETH",
+    "symbol": "Neiro/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x25647e01bd0967c1b9599fa3521939871d1d0888",
+    "name": "UniswapV2 LP WETH/SUPER",
+    "symbol": "WETH/SUPER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xddd23787a6b80a794d952f5fb036d0b31a8e6aff",
+    "name": "UniswapV2 LP pepecoin/WETH",
+    "symbol": "pepecoin/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2cc846fff0b08fb3bffad71f53a60b4b6e6d6482",
+    "name": "UniswapV2 LP BITCOIN/WETH",
+    "symbol": "BITCOIN/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2a6c340bcbb0a79d3deecd3bc5cbc2605ea9259f",
+    "name": "UniswapV2 LP $PAAL/WETH",
+    "symbol": "$PAAL/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6ada49aeccf6e556bb7a35ef0119cc8ca795294a",
+    "name": "UniswapV2 LP WOO/WETH",
+    "symbol": "WOO/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x48d20b3e529fb3dd7d91293f80638df582ab2daa",
+    "name": "UniswapV2 LP WETH/CAW",
+    "symbol": "WETH/CAW",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9928e4046d7c6513326ccea028cd3e7a91c7590a",
+    "name": "UniswapV2 LP FEI/TRIBE",
+    "symbol": "FEI/TRIBE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc7e6b676bfc73ae40bcc4577f22aab1682c691c6",
+    "name": "UniswapV2 LP TOKEN/WETH",
+    "symbol": "TOKEN/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4028daac072e492d34a3afdbef0ba7e35d8b55c4",
+    "name": "UniswapV2 LP stETH/WETH",
+    "symbol": "stETH/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3041cbd36888becc7bbcbc0045e3b1f144466f5f",
+    "name": "UniswapV2 LP USDC/USDT",
+    "symbol": "USDC/USDT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x801c868ce08fb5b396e6911eac351beb259d386c",
+    "name": "UniswapV2 LP wstETH/DOG",
+    "symbol": "wstETH/DOG",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xda2d09fbbf8ee4b5051a0e9b562c5fcb4b393b18",
+    "name": "UniswapV2 LP WETH/GEKKO",
+    "symbol": "WETH/GEKKO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0f23d49bc92ec52ff591d091b3e16c937034496e",
+    "name": "UniswapV2 LP WOJAK/WETH",
+    "symbol": "WOJAK/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc5be99a02c6857f9eac67bbce58df5572498f40c",
+    "name": "UniswapV2 LP WETH/AMPL",
+    "symbol": "WETH/AMPL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcaa004418eb42cdf00cb057b7c9e28f0ffd840a5",
+    "name": "UniswapV2 LP WILD/WETH",
+    "symbol": "WILD/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa86aca6d7c393c06dcdc30473ea3d1b05c358dff",
+    "name": "UniswapV2 LP NMT/USDC",
+    "symbol": "NMT/USDC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc91ef786fbf6d62858262c82c63de45085dea659",
+    "name": "UniswapV2 LP WETH/TOPIA",
+    "symbol": "WETH/TOPIA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1ffec7119e315b15852557f654ae0052f76e6ae1",
+    "name": "UniswapV2 LP WETH/DSync",
+    "symbol": "WETH/DSync",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd3d2e2692501a5c9ca623199d38826e513033a17",
+    "name": "UniswapV2 LP UNI/WETH",
+    "symbol": "UNI/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x470e8de2ebaef52014a47cb5e6af86884947f08c",
+    "name": "UniswapV2 LP WETH/FOX",
+    "symbol": "WETH/FOX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9816f26f43c4c02df0daae1a0ba6a4dcd30b8ab7",
+    "name": "UniswapV2 LP M2/wPE",
+    "symbol": "M2/wPE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe46935ae80e05cdebd4a4008b6ccaa36d2845370",
+    "name": "UniswapV2 LP OM/WETH",
+    "symbol": "OM/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9ff68f61ca5eb0c6606dc517a9d44001e564bb66",
+    "name": "UniswapV2 LP BOTTO/WETH",
+    "symbol": "BOTTO/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x570febdf89c07f256c75686caca215289bb11cfc",
+    "name": "UniswapV2 LP ERN/WETH",
+    "symbol": "ERN/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7924a818013f39cf800f5589ff1f1f0def54f31f",
+    "name": "UniswapV2 LP LON/WETH",
+    "symbol": "LON/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8c1c499b1796d7f3c2521ac37186b52de024e58c",
+    "name": "UniswapV2 LP RAD/USDC",
+    "symbol": "RAD/USDC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1140201364600b0016f35c5dd32e2269229ac3d6",
+    "name": "UniswapV2 LP CETI/wTAO",
+    "symbol": "CETI/wTAO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xeedff72a683058f8ff531e8c98575f920430fdc5",
+    "name": "UniswapV2 LP Dione/WETH",
+    "symbol": "Dione/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe945683b3462d2603a18bdfbb19261c6a4f03ad1",
+    "name": "UniswapV2 LP BOBO/WETH",
+    "symbol": "BOBO/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xaf996125e98b5804c00ffdb4f7ff386307c99a00",
+    "name": "UniswapV2 LP XFI/WETH",
+    "symbol": "XFI/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa1bf0e900fb272089c9fd299ea14bfccb1d1c2c0",
+    "name": "UniswapV2 LP ANDY/WETH",
+    "symbol": "ANDY/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x343fd171caf4f0287ae6b87d75a8964dc44516ab",
+    "name": "UniswapV2 LP PNK/WETH",
+    "symbol": "PNK/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x69c7bd26512f52bf6f76fab834140d13dda673ca",
+    "name": "UniswapV2 LP NPC/WETH",
+    "symbol": "NPC/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf6c4e4f339912541d3f8ed99dba64a1372af5e5b",
+    "name": "UniswapV2 LP USDT/HEZ",
+    "symbol": "USDT/HEZ",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x97e1fcb93ae7267dbafad23f7b9afaa08264cfd8",
+    "name": "UniswapV2 LP UFO/WETH",
+    "symbol": "UFO/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8d58e202016122aae65be55694dbce1b810b4072",
+    "name": "UniswapV2 LP basedAI/WETH",
+    "symbol": "basedAI/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa5e9c917b4b821e4e0a5bbefce078ab6540d6b5e",
+    "name": "UniswapV2 LP STARL/WETH",
+    "symbol": "STARL/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcbe856765eeec3fdc505ddebf9dc612da995e593",
+    "name": "UniswapV2 LP LADYS/WETH",
+    "symbol": "LADYS/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc3576f38c32e95e36bbd8d91e6cbe646a3723110",
+    "name": "UniswapV2 LP WETH/PHIL",
+    "symbol": "WETH/PHIL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x622270721fb38fde831ab23a8e177665557f6fa9",
+    "name": "UniswapV2 LP SQGROW/WETH",
+    "symbol": "SQGROW/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5016cd7b785a773f7f3a3ff4035a1e7a76543946",
+    "name": "UniswapV2 LP CAGA/USDT",
+    "symbol": "CAGA/USDT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5ced44f03ff443bbe14d8ea23bc24425fb89e3ed",
+    "name": "UniswapV2 LP APU/WETH",
+    "symbol": "APU/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf07a84f0732dfe8eea0d3961bcd8f62c761ff508",
+    "name": "UniswapV2 LP HashAI/WETH",
+    "symbol": "HashAI/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5281e311734869c64ca60ef047fd87759397efe6",
+    "name": "UniswapV2 LP WETH/CULT",
+    "symbol": "WETH/CULT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbf16540c857b4e32ce6c37d2f7725c8eec869b8b",
+    "name": "UniswapV2 LP PEIPEI/WETH",
+    "symbol": "PEIPEI/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x69c66beafb06674db41b22cfc50c34a93b8d82a2",
+    "name": "UniswapV2 LP GROK/WETH",
+    "symbol": "GROK/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x82b8ee01e63af40bec3cb555795d2a12c495ee23",
+    "name": "UniswapV2 LP WETH/LNQ",
+    "symbol": "WETH/LNQ",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc730ef0f4973da9cc0ab8ab291890d3e77f58f79",
+    "name": "UniswapV2 LP AUDIO/WETH",
+    "symbol": "AUDIO/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0b07188b12e3bba6a680e553e23c4079e98a034b",
+    "name": "UniswapV2 LP USDT/MOCA",
+    "symbol": "USDT/MOCA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbe8bc29765e11894f803906ee1055a344fdf2511",
+    "name": "UniswapV2 LP BOB/WETH",
+    "symbol": "BOB/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x811cfb75567a252bea23474e2ccd1286927bfe0a",
+    "name": "UniswapV2 LP FJO/WETH",
+    "symbol": "FJO/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8dbee21e8586ee356130074aaa789c33159921ca",
+    "name": "UniswapV2 LP WETH/UNIBOT",
+    "symbol": "WETH/UNIBOT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8fb8e9921922d2ffb529a95d28a0d06d275d7a59",
+    "name": "UniswapV2 LP SFUND/WETH",
+    "symbol": "SFUND/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x05c024b441d2c288c2729b484bd4bcef3596aa51",
+    "name": "UniswapV2 LP OSAK/WETH",
+    "symbol": "OSAK/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xffa98a091331df4600f87c9164cd27e8a5cd2405",
+    "name": "UniswapV2 LP POLS/WETH",
+    "symbol": "POLS/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x96aa22baedc5a605357e0b9ae20ab6b10a472e03",
+    "name": "UniswapV2 LP VOLT/WETH",
+    "symbol": "VOLT/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x52c77b0cb827afbad022e6d6caf2c44452edbc39",
+    "name": "UniswapV2 LP WETH/SPX",
+    "symbol": "WETH/SPX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc09bf2b1bc8725903c509e8caeef9190857215a8",
+    "name": "UniswapV2 LP IXS/WETH",
+    "symbol": "IXS/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x769f539486b31ef310125c44d7f405c6d470cd1f",
+    "name": "UniswapV2 LP GPU/WETH",
+    "symbol": "GPU/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1112956589a2bea1b038732db4ea6b0c416ef130",
+    "name": "UniswapV2 LP NEURAL/WETH",
+    "symbol": "NEURAL/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xaca1973a26692742a783d63dc198c99fb0fdc98d",
+    "name": "UniswapV2 LP TRX/HTX",
+    "symbol": "TRX/HTX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4d136871d5617019dfdb339a2cd7cb5a0b75e7f3",
+    "name": "UniswapV2 LP imBTC/WETH",
+    "symbol": "imBTC/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3885fbe4cd8aed7b7e9625923927fa1ce30662a3",
+    "name": "UniswapV2 LP WETH/NEIRO",
+    "symbol": "WETH/NEIRO",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6ef7d514d75b5a5a3c500dba1b161a81e842e7a4",
+    "name": "UniswapV2 LP QDFI/USDT",
+    "symbol": "QDFI/USDT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf4acdac048c14c5e49bbede0c72444d806a75cde",
+    "name": "UniswapV2 LP VANRY/WETH",
+    "symbol": "VANRY/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0e85fb1be698e777f2185350b4a52e5ee8df51a6",
+    "name": "UniswapV2 LP BST/WETH",
+    "symbol": "BST/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0c3fdf9c70835f9be9db9585ecb6a1ee3f20a6c7",
+    "name": "UniswapV2 LP WETH/MAGA",
+    "symbol": "WETH/MAGA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4a7d4be868e0b811ea804faf0d3a325c3a29a9ad",
+    "name": "UniswapV2 LP REQ/WETH",
+    "symbol": "REQ/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe532b04d2f2e921dfec69e132e9214d2f82df304",
+    "name": "UniswapV2 LP FLUT/DAI",
+    "symbol": "FLUT/DAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8f1b19622a888c53c8ee4f7d7b4dc8f574ff9068",
+    "name": "UniswapV2 LP JESUS/WETH",
+    "symbol": "JESUS/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x34a43471377dcce420ce8e3ffd9360b2e08fa7b4",
+    "name": "UniswapV2 LP WETH/KEROSENE",
+    "symbol": "WETH/KEROSENE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa2107fa5b38d9bbd2c461d6edf11b11a50f6b974",
+    "name": "UniswapV2 LP LINK/WETH",
+    "symbol": "LINK/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf82d8ec196fb0d56c6b82a8b1870f09502a49f88",
+    "name": "UniswapV2 LP KISHU/WETH",
+    "symbol": "KISHU/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbf88870abb9b885b8cd84b5988212591c4560bcd",
+    "name": "UniswapV2 LP WARPED/WETH",
+    "symbol": "WARPED/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8ef79d6c328c25da633559c20c75f638a4863462",
+    "name": "UniswapV2 LP QOM/WETH",
+    "symbol": "QOM/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9b7dad79fc16106b47a3dab791f389c167e15eb0",
+    "name": "UniswapV2 LP OCEAN/WETH",
+    "symbol": "OCEAN/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xae461ca67b15dc8dc81ce7615e0320da1a9ab8d5",
+    "name": "UniswapV2 LP DAI/USDC",
+    "symbol": "DAI/USDC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xefdf4dfc4e817197851266acf0082a80dab18b24",
+    "name": "UniswapV2 LP TET/WETH",
+    "symbol": "TET/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb7426bfd2abf64428fa82a71b0d44b056ffcc286",
+    "name": "UniswapV2 LP WETH/TROLL",
+    "symbol": "WETH/TROLL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb36ec83d844c0579ec2493f10b2087e96bb65460",
+    "name": "UniswapV2 LP ZIG/WETH",
+    "symbol": "ZIG/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x90908e414d3525e33733d320798b5681508255ea",
+    "name": "UniswapV2 LP Ponzio/WETH",
+    "symbol": "Ponzio/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x32ce7e48debdccbfe0cd037cc89526e4382cb81b",
+    "name": "UniswapV2 LP CORE/WETH",
+    "symbol": "CORE/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x704ad8d95c12d7fea531738faa94402725acb035",
+    "name": "UniswapV2 LP JOE/WETH",
+    "symbol": "JOE/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc2adda861f89bbb333c90c492cb837741916a225",
+    "name": "UniswapV2 LP /WETH",
+    "symbol": "/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x99dfde431b40321a35deb6aeb55cf338ddd6eccd",
+    "name": "UniswapV2 LP UFT/WETH",
+    "symbol": "UFT/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4dd26482738be6c06c31467a19dcda9ad781e8c4",
+    "name": "UniswapV2 LP API3/WETH",
+    "symbol": "API3/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5bb8f1ce603577a4d17cc9d72f6a4c38f3b0b74c",
+    "name": "UniswapV2 LP WETH/CHKN",
+    "symbol": "WETH/CHKN",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5c6919b79fac1c3555675ae59a9ac2484f3972f5",
+    "name": "UniswapV2 LP HOPPY/WETH",
+    "symbol": "HOPPY/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x23d15edceb5b5b3a23347fa425846de80a2e8e5c",
+    "name": "UniswapV2 LP WETH/HEZ",
+    "symbol": "WETH/HEZ",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x33a93bd484053615933502cb1299f77de48036c8",
+    "name": "UniswapV2 LP NATI/WETH",
+    "symbol": "NATI/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdf4f3749bb4e96bf91a67c7e873d9c04198d924a",
+    "name": "UniswapV2 LP WAGMIGAMES/WETH",
+    "symbol": "WAGMIGAMES/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
   {
     "chainId": 1,
     "address": "0x7054b0f980a7eb5b3a6b3446f3c947d80162775c",
@@ -25,196 +889,1131 @@
   },
   {
     "chainId": 1,
-    "address": "0x53f530f49211f80184e5fc70605558db232bc5d7",
-    "name": "UniswapV2 LP RAID/WETH",
-    "symbol": "RAID/WETH",
+    "address": "0xebbc72c68557406d6d0c7ff0aa0a86177f8994ab",
+    "name": "UniswapV2 LP PMPY/WETH",
+    "symbol": "PMPY/WETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
   },
   {
     "chainId": 1,
-    "address": "0x6bdd8282e17c3853bd17b13e8106152f6b99e2e4",
-    "name": "UniswapV2 LP Seele/USDT",
-    "symbol": "Seele/USDT",
+    "address": "0x06cd6245156c3608ae67d690c125e86a8bc6a88c",
+    "name": "UniswapV2 LP OMIKAMI/USDC",
+    "symbol": "OMIKAMI/USDC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
   },
   {
     "chainId": 1,
-    "address": "0xad19b7e2b1dac6cea46b18eec731981c08e6f08e",
-    "name": "UniswapV2 LP ADEL/WETH",
-    "symbol": "ADEL/WETH",
+    "address": "0xd9f2a7471d1998c69de5cae6df5d3f070f01df9f",
+    "name": "UniswapV2 LP Kendu/WETH",
+    "symbol": "Kendu/WETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
   },
   {
     "chainId": 1,
-    "address": "0xa27c56b3969cfb8fbce427337d98e3bd794ec688",
-    "name": "UniswapV2 LP /WETH",
-    "symbol": "/WETH",
+    "address": "0x6033368e4a402605294c91cf5c03d72bd96e7d8d",
+    "name": "UniswapV2 LP X2Y2/WETH",
+    "symbol": "X2Y2/WETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
   },
   {
     "chainId": 1,
-    "address": "0x430ba84fadf427ee5e8d4d78538b64c1e7456020",
-    "name": "UniswapV2 LP SAN/WETH",
-    "symbol": "SAN/WETH",
+    "address": "0x700fc86c46299cf2a8fd86edadae3f57014351b0",
+    "name": "UniswapV2 LP RACA/USDT",
+    "symbol": "RACA/USDT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
   },
   {
     "chainId": 1,
-    "address": "0x86e4a6eded7b8b3af1ed4e6ee1a81f058a37647a",
-    "name": "UniswapV2 LP SUBF/WETH",
-    "symbol": "SUBF/WETH",
+    "address": "0xe471f93c2be15b64e9ec63bbf485446cb934e8c4",
+    "name": "UniswapV2 LP imgnAI/WETH",
+    "symbol": "imgnAI/WETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
   },
   {
     "chainId": 1,
-    "address": "0xf88a07aa601662ec10ca84b47c786cee9b506cdf",
-    "name": "UniswapV2 LP WETH/DELREY",
-    "symbol": "WETH/DELREY",
+    "address": "0xf827fa9b46745a876637406e2a3bf0a2766b89ba",
+    "name": "UniswapV2 LP DUMMY/WETH",
+    "symbol": "DUMMY/WETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
   },
   {
     "chainId": 1,
-    "address": "0xb906b406906fd75aad26deba8b3402c6244861b6",
-    "name": "UniswapV2 LP QAI/WETH",
-    "symbol": "QAI/WETH",
+    "address": "0x21ffaa1c83946a89bef4d639f71d070c868b8694",
+    "name": "UniswapV2 LP CSWAP/WETH",
+    "symbol": "CSWAP/WETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
   },
   {
     "chainId": 1,
-    "address": "0xd65754e039dba5ff19ccb0c11786d495b6246ae8",
-    "name": "UniswapV2 LP MXH/WETH",
-    "symbol": "MXH/WETH",
+    "address": "0x79dd15ad871b0fe18040a52f951d757ef88cfe72",
+    "name": "UniswapV2 LP KNDX/WETH",
+    "symbol": "KNDX/WETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
   },
   {
     "chainId": 1,
-    "address": "0x36386e4fed28b7ebaec55b2e101dc418703eecee",
-    "name": "UniswapV2 LP DNODE/WETH",
-    "symbol": "DNODE/WETH",
+    "address": "0x4e34da137f0b317c633838458e0c923a5e088752",
+    "name": "UniswapV2 LP AIT/WETH",
+    "symbol": "AIT/WETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
   },
   {
     "chainId": 1,
-    "address": "0x83eef420c54b1b8d6fef17625ca08e19e3eb1096",
-    "name": "UniswapV2 LP KYOKO/USDT",
-    "symbol": "KYOKO/USDT",
+    "address": "0x67324985b5014b36b960273353deb3d96f2f18c2",
+    "name": "UniswapV2 LP WOLF/WETH",
+    "symbol": "WOLF/WETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
   },
   {
     "chainId": 1,
-    "address": "0x936a30b87e8f3572084a25b95de1e681e8ec6108",
-    "name": "UniswapV2 LP BxB/WETH",
-    "symbol": "BxB/WETH",
+    "address": "0x11181bd3baf5ce2a478e98361985d42625de35d1",
+    "name": "UniswapV2 LP ASTO/USDC",
+    "symbol": "ASTO/USDC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
   },
   {
     "chainId": 1,
-    "address": "0x3be023902ea4120cacdc803e5801d9b117381ac0",
-    "name": "UniswapV2 LP CODE/WETH",
-    "symbol": "CODE/WETH",
+    "address": "0x419991da56d9ad96a1a38513b7ae7e49caa4b82c",
+    "name": "UniswapV2 LP WETH/SHIDO",
+    "symbol": "WETH/SHIDO",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
   },
   {
     "chainId": 1,
-    "address": "0x45fd263b121dcf3e0173d1107d8667fa7942ed62",
-    "name": "UniswapV2 LP GRL/WETH",
-    "symbol": "GRL/WETH",
+    "address": "0x9bd82673c50acb4a3b883d61e070a3c8d9b08e10",
+    "name": "UniswapV2 LP DAI/HEZ",
+    "symbol": "DAI/HEZ",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
   },
   {
     "chainId": 1,
-    "address": "0x2d54b72d3ae65dc849117172a7a81bdf2a5110ce",
-    "name": "UniswapV2 LP BROS/WETH",
-    "symbol": "BROS/WETH",
+    "address": "0x78b9524101fb67286338261ddd85e20665e571c1",
+    "name": "UniswapV2 LP UNISTAKE/WETH",
+    "symbol": "UNISTAKE/WETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
   },
   {
     "chainId": 1,
-    "address": "0x8fe9203c12e797cac7e901d63cacc022b68b50c3",
-    "name": "UniswapV2 LP TAOBOT/WETH",
-    "symbol": "TAOBOT/WETH",
+    "address": "0x4eefe02fce5b53ca33c7717bbd8ad3c9cb0609f1",
+    "name": "UniswapV2 LP WETH/ZENT",
+    "symbol": "WETH/ZENT",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
   },
   {
     "chainId": 1,
-    "address": "0xff1ed3671b108c06241d8c6e2565eebcc219897b",
-    "name": "UniswapV2 LP 0xMR/WETH",
-    "symbol": "0xMR/WETH",
+    "address": "0xda3a20aad0c34fa742bd9813d45bbf67c787ae0b",
+    "name": "UniswapV2 LP AKITA/WETH",
+    "symbol": "AKITA/WETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
   },
   {
     "chainId": 1,
-    "address": "0xd6627823445981c92b77b52337006bd93dcf0a9a",
-    "name": "UniswapV2 LP HYPE/WETH",
-    "symbol": "HYPE/WETH",
+    "address": "0xd101821c56b4405af4a376cbe81fa0dc90207dc2",
+    "name": "UniswapV2 LP FOUR/WETH",
+    "symbol": "FOUR/WETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
   },
   {
     "chainId": 1,
-    "address": "0xacfc50ec5fe0fd039e83380b8ab343b77a49704f",
-    "name": "UniswapV2 LP WSM/WETH",
-    "symbol": "WSM/WETH",
+    "address": "0x811beed0119b4afce20d2583eb608c6f7af1954f",
+    "name": "UniswapV2 LP SHIB/WETH",
+    "symbol": "SHIB/WETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
   },
   {
     "chainId": 1,
-    "address": "0x479d7a7864e00668da1ee507fa1b925fb1b2ae19",
-    "name": "UniswapV2 LP HAMS/WETH",
-    "symbol": "HAMS/WETH",
+    "address": "0x3478b3ecc153ce61ea3c6788611fdbb374d4305d",
+    "name": "UniswapV2 LP BREED/WETH",
+    "symbol": "BREED/WETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
   },
   {
     "chainId": 1,
-    "address": "0x0f2156fbe6142c72c150d30c2522a5988110b013",
-    "name": "UniswapV2 LP KEL/WETH",
-    "symbol": "KEL/WETH",
+    "address": "0x56d8bbe2d518205b521aeb86a58e1b53b047a44f",
+    "name": "UniswapV2 LP BLENDR/WETH",
+    "symbol": "BLENDR/WETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
   },
   {
     "chainId": 1,
-    "address": "0xbc9dc9882661cea20913306e5eecc01634c750ff",
-    "name": "UniswapV2 LP BRCBOT/WETH",
-    "symbol": "BRCBOT/WETH",
+    "address": "0x4d5ef58aac27d99935e5b6b4a6778ff292059991",
+    "name": "UniswapV2 LP DPI/WETH",
+    "symbol": "DPI/WETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
   },
   {
     "chainId": 1,
-    "address": "0xbc159c4ff09a134ee7d47df92c1be4f3ca136f53",
-    "name": "UniswapV2 LP VRX/WETH",
-    "symbol": "VRX/WETH",
+    "address": "0xa40bb1c47f6dd27142a2bd7c93bfa98db9d1f5c5",
+    "name": "UniswapV2 LP MASK/USDC",
+    "symbol": "MASK/USDC",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
   },
   {
     "chainId": 1,
-    "address": "0xd8a8442013f071bb118c3c3e03f6d07576d85a53",
-    "name": "UniswapV2 LP WETH/BREWLABS",
-    "symbol": "WETH/BREWLABS",
+    "address": "0x85aa97537837514a9229fcaeb66eeef7242122bf",
+    "name": "UniswapV2 LP TGC/WETH",
+    "symbol": "TGC/WETH",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
-  }
-]
+  },
+  {
+    "chainId": 1,
+    "address": "0xccb63225a7b19dcf66717e4d40c9a72b39331d61",
+    "name": "UniswapV2 LP MC/WETH",
+    "symbol": "MC/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x434e4633c3e0b454813b2ceabd0c1fc2b32b4152",
+    "name": "UniswapV2 LP CAD/WETH",
+    "symbol": "CAD/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x450e653a0a125a1dc36d3901d3cce2e2287df0c2",
+    "name": "UniswapV2 LP MONGOOSE/WETH",
+    "symbol": "MONGOOSE/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcc0fcd959871e69f84fe9464c629f327941b655b",
+    "name": "UniswapV2 LP WETH/HyPC",
+    "symbol": "WETH/HyPC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xfe9e7931e55c514c33d489c88582fa36e84bd8e3",
+    "name": "UniswapV2 LP ORDS/WETH",
+    "symbol": "ORDS/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x61bc0e018a1332107f5d7f730fa39f703e246881",
+    "name": "UniswapV2 LP PEPE2.0/WETH",
+    "symbol": "PEPE2.0/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x68b44c26874998adbd41a964e92315809524c7cb",
+    "name": "UniswapV2 LP ZYN/WETH",
+    "symbol": "ZYN/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0a09cdb390d3b6ba9119843a92c14b2428e101bf",
+    "name": "UniswapV2 LP TENSOR/DAI",
+    "symbol": "TENSOR/DAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8a8f6547c8c9f2a181f3a487174430dcaf5bbec6",
+    "name": "UniswapV2 LP WETH/SYNT",
+    "symbol": "WETH/SYNT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xaf06e7c7170eb22d52eb09b5ec5d1373c34164e9",
+    "name": "UniswapV2 LP POOH/WETH",
+    "symbol": "POOH/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x672fefac7f6e3017d9a2f1c14fe048191a24ce14",
+    "name": "UniswapV2 LP WETH/HEMULE",
+    "symbol": "WETH/HEMULE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x315ed60258702f8d159b98df4c0dbeb1d7d776df",
+    "name": "UniswapV2 LP WETH/ZKML",
+    "symbol": "WETH/ZKML",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcd6bcca48069f8588780dfa274960f15685aee0e",
+    "name": "UniswapV2 LP ⚗️/WETH",
+    "symbol": "⚗️/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x051ef36e55875c08e4efaea6072c6d0f66fb0b9f",
+    "name": "UniswapV2 LP WETH/PALM",
+    "symbol": "WETH/PALM",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2854fbda37ac17aa184772bca10d2ca731e06c8c",
+    "name": "UniswapV2 LP WETH/BITROCK",
+    "symbol": "WETH/BITROCK",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x959873fb4fc11825fba83c80c4c632db1e936e15",
+    "name": "UniswapV2 LP SpacePi/WETH",
+    "symbol": "SpacePi/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x401347fe27da1c1819ffaaf01c487e3f99e79ec7",
+    "name": "UniswapV2 LP MANE/WETH",
+    "symbol": "MANE/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3beeab9d5624e487045e01d12332975204a04a8a",
+    "name": "UniswapV2 LP BCB/WETH",
+    "symbol": "BCB/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x29c830864930c897efa2b9e9851342187b82010e",
+    "name": "UniswapV2 LP BAD/WETH",
+    "symbol": "BAD/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf2cb7243aaf57575e6d3165991327b0410bf91ef",
+    "name": "UniswapV2 LP gooch/WETH",
+    "symbol": "gooch/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x07840b4825b74cc6ce264bf2743dee647194f49b",
+    "name": "UniswapV2 LP KOMPETE/WETH",
+    "symbol": "KOMPETE/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x09bc52b9eb7387ede639fc10ce5fa01cbcbf2b17",
+    "name": "UniswapV2 LP ECO/USDC",
+    "symbol": "ECO/USDC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2049df3435bdbb36d22f98fcd2e5027049a1f3ce",
+    "name": "UniswapV2 LP M87/WETH",
+    "symbol": "M87/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc7e33c97bea7a4d990a9835970fed8a08536a71b",
+    "name": "UniswapV2 LP HOTKEY/WETH",
+    "symbol": "HOTKEY/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x450a136224734a05a494323be8623ef668f74c0e",
+    "name": "UniswapV2 LP BLOOM/WETH",
+    "symbol": "BLOOM/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x27fd0857f0ef224097001e87e61026e39e1b04d1",
+    "name": "UniswapV2 LP WETH/RLY",
+    "symbol": "WETH/RLY",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc77efc40c20f1578a9bd714f9a871dfc1a81b234",
+    "name": "UniswapV2 LP ARCX/WETH",
+    "symbol": "ARCX/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6c2b607bf0a8ede629d58ba5e05d0448ff7f890a",
+    "name": "UniswapV2 LP LMEOW/WETH",
+    "symbol": "LMEOW/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6d1bf1bad3ad84fec48d8808d752b683cf30c77c",
+    "name": "UniswapV2 LP MAGAA/WETH",
+    "symbol": "MAGAA/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb223ce5bd5e928b5eb46cfe80d4ffa58fc66d7c0",
+    "name": "UniswapV2 LP RVF/WETH",
+    "symbol": "RVF/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3dd49f67e9d5bc4c5e6634b3f70bfd9dc1b6bd74",
+    "name": "UniswapV2 LP SAND/WETH",
+    "symbol": "SAND/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1921b852f38bc68430780242b2628d0ca14cef83",
+    "name": "UniswapV2 LP WETH/NCDT",
+    "symbol": "WETH/NCDT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf07c735011c311f55425bf8c534471a0410d85ad",
+    "name": "UniswapV2 LP XVG/WETH",
+    "symbol": "XVG/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf3dce0483c9362db088f226b6a860e8f0508faf8",
+    "name": "UniswapV2 LP HELLO/WETH",
+    "symbol": "HELLO/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xac86903cdda380f20a06cc8a2dea7749f1558c68",
+    "name": "UniswapV2 LP WETH/RAIL",
+    "symbol": "WETH/RAIL",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9345c3e50f31f18a68c5bd210cce6f2083ec6943",
+    "name": "UniswapV2 LP SMILEY/WETH",
+    "symbol": "SMILEY/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x977c5fcf7a552d38adcde4f41025956855497c6d",
+    "name": "UniswapV2 LP WETH/шайлушай",
+    "symbol": "WETH/шайлушай",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x79fe75708e834c5a6857a8b17eeac651907c1da8",
+    "name": "UniswapV2 LP OHM/EEFI",
+    "symbol": "OHM/EEFI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x78359500f08157eac9ef566040242abca8f4d9ab",
+    "name": "UniswapV2 LP FakeAI/WETH",
+    "symbol": "FakeAI/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2aeee741fa1e21120a21e57db9ee545428e683c9",
+    "name": "UniswapV2 LP WETH/GME",
+    "symbol": "WETH/GME",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xda3706c9a099077e6bc389d1baf918565212a54d",
+    "name": "UniswapV2 LP VIDYA/WETH",
+    "symbol": "VIDYA/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1e49768714e438e789047f48fd386686a5707db2",
+    "name": "UniswapV2 LP VOW/USDT",
+    "symbol": "VOW/USDT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x873056a02255872514f05249d93228d788fe4fb4",
+    "name": "UniswapV2 LP DG/USDC",
+    "symbol": "DG/USDC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3415e25b637686bbece1d0f798934772101486f6",
+    "name": "UniswapV2 LP oGPU/WETH",
+    "symbol": "oGPU/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdf60e6416fcf8c955fddf01148753a911f7a5905",
+    "name": "UniswapV2 LP KUMA/WETH",
+    "symbol": "KUMA/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc98a5c514185b5160ccf20d69126cfbe65c9cef2",
+    "name": "UniswapV2 LP MODA/WETH",
+    "symbol": "MODA/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x308c6fbd6a14881af333649f17f2fde9cd75e2a6",
+    "name": "UniswapV2 LP DOGE/WETH",
+    "symbol": "DOGE/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1ecb460a532c1d76937bedbadf7d333da30255a4",
+    "name": "UniswapV2 LP ZYPTO/WETH",
+    "symbol": "ZYPTO/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8fbd26a7cb1ab65834c5ea245aa1f1e78d03ed30",
+    "name": "UniswapV2 LP WETH/BYTE",
+    "symbol": "WETH/BYTE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc8f03fdc7b685357f78230814da6944c71c874e4",
+    "name": "UniswapV2 LP WETH/TRESTLE",
+    "symbol": "WETH/TRESTLE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf227e97616063a0ea4143744738f9def2aa06743",
+    "name": "UniswapV2 LP QRX/WETH",
+    "symbol": "QRX/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xeaabb2ee89221455302d9ffb5325689ff8f0c37b",
+    "name": "UniswapV2 LP IC/WETH",
+    "symbol": "IC/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x63a151d042dc870fb1b3f0c72cbbdd53a85898f6",
+    "name": "UniswapV2 LP FIGHT/WETH",
+    "symbol": "FIGHT/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8a6d9525a0f07dcdc17fff15644342c314025a80",
+    "name": "UniswapV2 LP SPECTRE/WETH",
+    "symbol": "SPECTRE/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x68e78497a7b0db7718ccc833c164a18d8e626816",
+    "name": "UniswapV2 LP WETH/RYU",
+    "symbol": "WETH/RYU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe87e0be74368c8e153771dd4b2dee3ad3626fc4f",
+    "name": "UniswapV2 LP CAT/WETH",
+    "symbol": "CAT/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa924e5636f89d67e8ba792cfeee15bbf820ff18e",
+    "name": "UniswapV2 LP FAC/WETH",
+    "symbol": "FAC/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa93e7cd5dd6d228e67cbfdcb5523d4346c312b87",
+    "name": "UniswapV2 LP GEN/WETH",
+    "symbol": "GEN/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x67cea36eeb36ace126a3ca6e21405258130cf33c",
+    "name": "UniswapV2 LP USDC/TSUKA",
+    "symbol": "USDC/TSUKA",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x94ca4065ae4af445b7b12449c16dd93559ea08cd",
+    "name": "UniswapV2 LP STRUMP/WETH",
+    "symbol": "STRUMP/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x3c8ad34155b83ddb7f43119a19503d34ed2b5c7a",
+    "name": "UniswapV2 LP MVL/WETH",
+    "symbol": "MVL/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xdeba8fd61c1c87b6321a501ebb19e61e610421bf",
+    "name": "UniswapV2 LP BOOE/WETH",
+    "symbol": "BOOE/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xf3b675df63fb4889180d290a338fc15c0766fd64",
+    "name": "UniswapV2 LP SPOOL/DAI",
+    "symbol": "SPOOL/DAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6490828bd87be38279a36f029f3b9af8b4e14b49",
+    "name": "UniswapV2 LP RVST/WETH",
+    "symbol": "RVST/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcd7989894bc033581532d2cd88da5db0a4b12859",
+    "name": "UniswapV2 LP WBTC/BADGER",
+    "symbol": "WBTC/BADGER",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xa29fe6ef9592b5d408cca961d0fb9b1faf497d6d",
+    "name": "UniswapV2 LP WETH/DEXT",
+    "symbol": "WETH/DEXT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd6b117076222d95a05032a99f10738103c60d64d",
+    "name": "UniswapV2 LP ELON/WETH",
+    "symbol": "ELON/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x8c07e1dfede38b1908698988b4202a87e0d7a0f7",
+    "name": "UniswapV2 LP SIDUS/WETH",
+    "symbol": "SIDUS/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x47082a75bc16313ef92cfaca1feb885659c3c9b5",
+    "name": "UniswapV2 LP WETH/ARC",
+    "symbol": "WETH/ARC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc98936de9640d6bfc24f82de1cf0f8cd9f5b388d",
+    "name": "UniswapV2 LP NOBL/WETH",
+    "symbol": "NOBL/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd3772a963790fede65646cfdae08734a17cd0f47",
+    "name": "UniswapV2 LP ADX/WETH",
+    "symbol": "ADX/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x80b4d4e9d88d9f78198c56c5a27f3bacb9a685c5",
+    "name": "UniswapV2 LP WETH/TRU",
+    "symbol": "WETH/TRU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4f9fc4e0b79c1cbf16e68863ad5e9de6a94a346c",
+    "name": "UniswapV2 LP PROPC/USDT",
+    "symbol": "PROPC/USDT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9c04560df8dff626555317ccc2c336b9c24fda41",
+    "name": "UniswapV2 LP BXBT/WETH",
+    "symbol": "BXBT/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2dc9050d9873f50526e467e983d435e6d8d9afb0",
+    "name": "UniswapV2 LP WETH/APX",
+    "symbol": "WETH/APX",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x6ebf160b4ef7dbadf563f14d484194e919d2a4f6",
+    "name": "UniswapV2 LP MSI/WETH",
+    "symbol": "MSI/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xaf95d3a7a25f831dc2b9a6704554435957b51ec2",
+    "name": "UniswapV2 LP WETH/VAI",
+    "symbol": "WETH/VAI",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd75d1b30967d94b105f82f572ae7591cc3c48beb",
+    "name": "UniswapV2 LP CLS/USDC",
+    "symbol": "CLS/USDC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xc0a6bb3d31bb63033176edba7c48542d6b4e406d",
+    "name": "UniswapV2 LP RNDR/WETH",
+    "symbol": "RNDR/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x684b00a5773679f88598a19976fbeb25a68e9a5f",
+    "name": "UniswapV2 LP eXRD/USDC",
+    "symbol": "eXRD/USDC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcb49221ad08e84b1692f80b62cd5f90c1aadbe6e",
+    "name": "UniswapV2 LP CUDOS/WETH",
+    "symbol": "CUDOS/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x80d972d2a62ba71814f4e08bd27f95e5d81d02a9",
+    "name": "UniswapV2 LP STOS/WETH",
+    "symbol": "STOS/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5201523c0ad5ba792c40ce5aff7df2d1a721bbf8",
+    "name": "UniswapV2 LP $LOOT/WETH",
+    "symbol": "$LOOT/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2a706f26e0bd400ac710bec99150ed9d644f29bd",
+    "name": "UniswapV2 LP YAI/WETH",
+    "symbol": "YAI/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0be902716176d66364f1c2ecf25829a6d95c5bee",
+    "name": "UniswapV2 LP CDS/WETH",
+    "symbol": "CDS/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x424485f89ea52839fdb30640eb7dd7e0078e12fb",
+    "name": "UniswapV2 LP SDAO/WETH",
+    "symbol": "SDAO/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x5fa9569b0ed6aa01e234468e6a15b77988b950df",
+    "name": "UniswapV2 LP BLZ/USDC",
+    "symbol": "BLZ/USDC",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7fdeb46b3a0916630f36e886d675602b1007fcbb",
+    "name": "UniswapV2 LP VOW/WETH",
+    "symbol": "VOW/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x94053a31d5db6cada45fb560b77213b0ed237ea2",
+    "name": "UniswapV2 LP HUSBY/WETH",
+    "symbol": "HUSBY/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x198a62268f29d72634b634f80def70c156215485",
+    "name": "UniswapV2 LP WETH/FROGE",
+    "symbol": "WETH/FROGE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcf4236db746dbc1855a4d095aaf58da9b030491e",
+    "name": "UniswapV2 LP BLZ/WETH",
+    "symbol": "BLZ/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x2947dc50cc24cc55afbf22807a49cc302d65568c",
+    "name": "UniswapV2 LP 0KN/WETH",
+    "symbol": "0KN/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1e9ed2a6ae58f49b3f847eb9f301849c4a20b7e3",
+    "name": "UniswapV2 LP GSWAP/WETH",
+    "symbol": "GSWAP/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x68d66f784b49c2f3acf80e549cde65c81a0a1e12",
+    "name": "UniswapV2 LP CATE/WETH",
+    "symbol": "CATE/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x515d459555f8c1fcf2791ded819b73b60a80b8e3",
+    "name": "UniswapV2 LP OPSEC/WETH",
+    "symbol": "OPSEC/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe342253d5a0c1ac9da0203b0256e33c5cfe084f0",
+    "name": "UniswapV2 LP WETH/jim",
+    "symbol": "WETH/jim",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0a8e808f25c8dafa338aec17c3736f5b4505a0ed",
+    "name": "UniswapV2 LP WBTC/SAITABIT",
+    "symbol": "WBTC/SAITABIT",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x52127470de72e5ef77ca962d23125cbe096e2d81",
+    "name": "UniswapV2 LP RACA/WETH",
+    "symbol": "RACA/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0599282297a15ca86a10dabfc2bd5781f610e246",
+    "name": "UniswapV2 LP VDO/WETH",
+    "symbol": "VDO/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb777d386a9f6bf14ff85d92b27dc70209141e787",
+    "name": "UniswapV2 LP AQTIS/WETH",
+    "symbol": "AQTIS/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xb1a824a6caf1f789aa7ca1072e36e83cd62ba3ee",
+    "name": "UniswapV2 LP LAYER/WETH",
+    "symbol": "LAYER/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x24825d0ed8baa195f360e9084fa0e508082c4e3e",
+    "name": "UniswapV2 LP DAI/DIGITS",
+    "symbol": "DAI/DIGITS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x819f3450da6f110ba6ea52195b3beafa246062de",
+    "name": "UniswapV2 LP MATIC/WETH",
+    "symbol": "MATIC/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x4d3a10d4792dd12ececc5f3034c8e264b28485d1",
+    "name": "UniswapV2 LP TITANX/BLAZE",
+    "symbol": "TITANX/BLAZE",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1f8592cd7c4fdf0b53a2686fb36f1c9222d4a6f3",
+    "name": "UniswapV2 LP WETH/gOS",
+    "symbol": "WETH/gOS",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9f6facb42177f5af680f9f17cdf750bc7cf55973",
+    "name": "UniswapV2 LP TOAD/WETH",
+    "symbol": "TOAD/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x966053ca4fca049173eb1f27e4cb168ccb794534",
+    "name": "UniswapV2 LP VLT/WETH",
+    "symbol": "VLT/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe45b4a84e0ad24b8617a489d743c52b84b7acebe",
+    "name": "UniswapV2 LP AGIX/WETH",
+    "symbol": "AGIX/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xd6a347c998109ac87ccb323f78960c91bbe911cd",
+    "name": "UniswapV2 LP BTC2.0/WETH",
+    "symbol": "BTC2.0/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x9730b014700e78593fe62c06cad47ad1e0e5dff9",
+    "name": "UniswapV2 LP WETH/NOW",
+    "symbol": "WETH/NOW",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xbaafed32ec23b8e206820181318c0750cd194a5c",
+    "name": "UniswapV2 LP TATSU/WETH",
+    "symbol": "TATSU/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x0ae8d75e6168420a7d52a791c2465b43307408b4",
+    "name": "UniswapV2 LP 0XL/WETH",
+    "symbol": "0XL/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x7a922aea89288d8c91777beecc68df4a17151df1",
+    "name": "UniswapV2 LP USDC/SHU",
+    "symbol": "USDC/SHU",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x1637d0bce998bb73b05837825ac34938714fea2c",
+    "name": "UniswapV2 LP SRM/WETH",
+    "symbol": "SRM/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xcb37089fc6a6faff231b96e000300a6994d7a625",
+    "name": "UniswapV2 LP AIUS/WETH",
+    "symbol": "AIUS/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0xe6f65d5017185715a86a4207be8efd7cdfb3c4ef",
+    "name": "UniswapV2 LP CATBOY/WETH",
+    "symbol": "CATBOY/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+  },
+  {
+    "chainId": 1,
+    "address": "0x60a8ea6005f7db580bc0c9341e7e6275d114e874",
+    "name": "UniswapV2 LP X/WETH",
+    "symbol": "X/WETH",
+    "decimals": 18,
+    "logoURI": "https://assets.coingecko.com/coins/images/12504/large/uniswap-uni.png"
+   }
   ]
 }
