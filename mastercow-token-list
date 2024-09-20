@@ -7,7 +7,9 @@
         "patch": 1
     },
     "logoURI": "https://ipfs.cow.fi/ipfs/QmYK6v8knxT7ZfmS6FPpd9u1dKLxtZMKSrdQtur4ofShM3?pinataGatewayToken=MzQoKxPtVypjPgvG7fN47-FynJlKEStEQTyI-uG15v8jeAL5zpLuUj8pqWwhEu1T": [
-          {
+    ,
+  "tokens": [
+    {
     "chainId": 1,
     "address": "0x545bd6c032efdde65a377a6719def2796c8e0f2e",
     "name": "Aave Ethereum ENS",
@@ -207,5 +209,5 @@
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/12645/large/AAVE.png"
   }
-    ]
+  ]
 }
