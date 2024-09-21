@@ -1,0 +1,320 @@
+{
+  "name": "pendle-yt",
+  "timestamp": "2024-09-16T15:00:00+00:00",
+  "version": {
+    "major": 2,
+    "minor": 44,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/list-logo.png",
+  "keywords": [
+    "pendle"
+  ],
+  "tokens": [
+    {
+      "symbol": "YT-sUSDE-24OCT2024",
+      "name": "YT Ethena sUSDE 24OCT2024",
+      "address": "0x279e76fa6310976dc651c5f48ec7e768e9e2ccb4",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "YT-sUSDE-26DEC2024",
+      "name": "YT Ethena sUSDE 26DEC2024",
+      "address": "0xbe05538f48d76504953c5d1068898c6642937427",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "YT-weETH-26DEC2024",
+      "name": "YT ether.fi weETH 26DEC2024",
+      "address": "0x129e6b5dbc0ecc12f9e486c5bc9cdf1a6a80bc6a",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "YT-ezETH-26DEC2024",
+      "name": "YT Renzo ezETH 26DEC2024",
+      "address": "0x7749f5ed1e356edc63d469c2fcac9adeb56d1c2b",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "YT-USD0++-31OCT2024",
+      "name": "YT USD0++ 31OCT2024",
+      "address": "0x4f0b4e6512630480b868e62a8a1d3451b0e9192d",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "YT-sUSDE-26SEP2024",
+      "name": "YT Ethena sUSDE 26SEP2024",
+      "address": "0xdc02b77a3986da62c7a78fed73949c9767850809",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "YT-USDe-26DEC2024",
+      "name": "YT Ethena USDe 26DEC2024",
+      "address": "0x5d8b3cd632c58d5ce75c2141c1c8b3b0c209b3ed",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "YT-cornLBTC-26DEC2024",
+      "name": "YT Corn Lombard LBTC 26DEC2024",
+      "address": "0x1cae47aa3e10a77c55ee32f8623d6b5acc947344",
+      "decimals": 8,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "YT-stETH-25DEC2025",
+      "name": "YT stETH 25DEC2025",
+      "address": "0xf3abc972a0f537c1119c990d422463b93227cd83",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "YT-fUSDC-26DEC2024",
+      "name": "YT fUSDC 26DEC2024",
+      "address": "0x5935cedd7d33a32cd60e0f97cff54a6bbdbe7eee",
+      "decimals": 6,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "YT-weETHs-26DEC2024",
+      "name": "YT Super Symbiotic LRT 26DEC2024",
+      "address": "0x719b51dd92b7809a80a2e8c91d89367bf58f1d7a",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "YT-ENA-31OCT2024",
+      "name": "YT ENA 31OCT2024",
+      "address": "0xb978b4cc7bd1bcc684c3da0f3305c564ed859014",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "YT-pufETH-26SEP2024",
+      "name": "YT Puffer ETH 26SEP2024",
+      "address": "0x1a65eb80a2ac3ea6e41d456ddd6e9cc5728bef7c",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "YT-USDe-24OCT2024",
+      "name": "YT Ethena USDe 24OCT2024",
+      "address": "0x04bec8130afd0fc5c5eafe7a979d6921c05e1f67",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "YT-pufETH-26DEC2024",
+      "name": "YT Puffer ETH 26DEC2024",
+      "address": "0x05f0d9ef9103d2f5f16e6807570167d3d8547500",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "YT-pzETH-26SEP2024",
+      "name": "YT Mellow pzETH 26SEP2024",
+      "address": "0xa2b4c479c98163bbdbd3987a9f3474bb7bc72f84",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "YT-stETH-30DEC2027",
+      "name": "YT stETH 30DEC2027",
+      "address": "0x04b7fa1e727d7290d6e24fa9b426d0c940283a95",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "YT-corn-uniBTC-26DEC2024",
+      "name": "YT Corn Bedrock uniBTC 26DEC2024",
+      "address": "0x64a43f21f905f420ce17b26a0bf1fc032c6481db",
+      "decimals": 8,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "YT-swETH-26DEC2024",
+      "name": "YT swETH 26DEC2024",
+      "address": "0x3199c7c3c972a8da5f9fad2a838383f827b735f1",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "YT-agETH-26DEC2024",
+      "name": "YT Kelp Gain 26DEC2024",
+      "address": "0x3568f1d2e8058f6d99daa17051cb4a2930c83978",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "YT-weETH-26SEP2024",
+      "name": "YT ether.fi weETH 26SEP2024",
+      "address": "0xa54df645a042d24121a737daa89a57ebf8e0b71c",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "YT-rsETH-26SEP2024",
+      "name": "YT Kelp rsETH 26SEP2024",
+      "address": "0xe653e4048620e546afff02d3689678896d22e236",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "YT-stETH-26DEC2024",
+      "name": "YT stETH 26DEC2024",
+      "address": "0xc3863cccd012f8e45d72ec87c5a9c4f77e1c7549",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "YT-sfrxETH-26DEC2024",
+      "name": "YT sfrxETH 26DEC2024",
+      "address": "0x22e250ecaf9090ab3e31916b0411d7c19e085fde",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "YT-rswETH-26SEP2024",
+      "name": "YT rswETH 26SEP2024",
+      "address": "0xd66b560f4e3e85f22c192d91da847886d5c5fd00",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "YT-ETHx-26DEC2024",
+      "name": "YT Stader Staking ETHx 26DEC2024",
+      "address": "0x025417af44ebe9521b80187514e92f6093de78be",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "YT-ezETH-26SEP2024",
+      "name": "YT Renzo ezETH 26SEP2024",
+      "address": "0x1623f1a991584a6b69babbdbffd26e2b46485465",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "YT-sw2Rsweth-26SEP2024",
+      "name": "YT Swell L2 Deposit RswETH 26SEP2024",
+      "address": "0x5b8ab5cbe12365cf0939501c80a99f481253a6e4",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "YT-steakLRT-26DEC2024",
+      "name": "YT Mellow Steakhouse steakLRT 26DEC2024",
+      "address": "0xd6a4271f065dc7597aa37afcdd4490000995719a",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "YT-sUSDE-27MAR2025",
+      "name": "YT Ethena sUSDE 27MAR2025",
+      "address": "0x96512230bf0fa4e20cf02c3e8a7d983132cd2b9f",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "YT-steakLRT-26SEP2024",
+      "name": "YT Mellow Steakhouse steakLRT 26SEP2024",
+      "address": "0x4084c7af1ed7cee6d7d9853403065d4f5b9816c8",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "YT-sfPEPE-26SEP2024",
+      "name": "YT Sophon Farming PEPE 26SEP2024",
+      "address": "0x9500f306cd233bf2bcff1cc90d565c64626a162c",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "YT-uniETH-26DEC2024",
+      "name": "YT Bedrock UniETH 26DEC2024",
+      "address": "0xf63992c57f37d138bc8e6b743d2f765e199e2bd6",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "YT-rsETH-26DEC2024",
+      "name": "YT Kelp rsETH 26DEC2024",
+      "address": "0x5576ad59d4223f8e49ed1e8f45172f1cb18ff11e",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "YT-USDe-27MAR2025",
+      "name": "YT Ethena USDe 27MAR2025",
+      "address": "0x4a8036efa1307f1ca82d932c0895faa18db0c9ee",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "YT-rswETH-26DEC2024",
+      "name": "YT rswETH 26DEC2024",
+      "address": "0xc13f26e8b23c14dfc8b34f893680a4dcad2a5f23",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "YT-uniETH-26SEP2024",
+      "name": "YT Bedrock UniETH 26SEP2024",
+      "address": "0xdf74ba4436478969a54ecb352093312fe97ebaa5",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "YT-eUSD-26DEC2024",
+      "name": "YT eUSD 26DEC2024",
+      "address": "0x82cc3da7d315c47557147f44984c3e805c34789c",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    }
+   }
+  ]
+}
