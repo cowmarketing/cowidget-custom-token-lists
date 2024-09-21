@@ -14,2006 +14,2005 @@
   ],
 
   "tokens": [
-   [
-  {
-    "chainId": 1,
-    "address": "0xceff51756c56ceffca006cd410b03ffc46dd3a58",
-    "name": "SushiSwap LP WBTC/WETH",
-    "symbol": "WBTC/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x6a091a3406e0073c3cd6340122143009adac0eda",
-    "name": "SushiSwap LP ILV/WETH",
-    "symbol": "ILV/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x397ff1542f962076d0bfe58ea045ffa2d347aca0",
-    "name": "SushiSwap LP USDC/WETH",
-    "symbol": "USDC/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xc3d03e4f041fd4cd388c549ee2a29a9e5075882f",
-    "name": "SushiSwap LP DAI/WETH",
-    "symbol": "DAI/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x1498bd576454159bb81b5ce532692a8752d163e8",
-    "name": "SushiSwap LP DELTA/WETH",
-    "symbol": "DELTA/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x55d31f68975e446a40a2d02ffa4b0e1bfb233c2f",
-    "name": "SushiSwap LP LON/USDT",
-    "symbol": "LON/USDT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x0463a06fbc8bf28b3f120cd1bfc59483f099d332",
-    "name": "SushiSwap LP PUNK/WETH",
-    "symbol": "PUNK/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x795065dcc9f64b5614c407a6efdc400da6221fb0",
-    "name": "SushiSwap LP SUSHI/WETH",
-    "symbol": "SUSHI/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xc3f279090a47e80990fe3a9c30d24cb117ef91a8",
-    "name": "SushiSwap LP WETH/ALCX",
-    "symbol": "WETH/ALCX",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x4a86c01d67965f8cb3d0aaa2c655705e64097c31",
-    "name": "SushiSwap LP SYN/WETH",
-    "symbol": "SYN/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xd4e7a6e2d03e4e48dfc27dd3f46df1c176647e38",
-    "name": "SushiSwap LP TOKE/WETH",
-    "symbol": "TOKE/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x3d3f13f2529ec3c84b2940155effbf9b39a8f3ec",
-    "name": "SushiSwap LP THOR/WETH",
-    "symbol": "THOR/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x06da0fd433c1a5d7a4faa01111c044910a184553",
-    "name": "SushiSwap LP WETH/USDT",
-    "symbol": "WETH/USDT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xeefa3b448768dd561af4f743c9e925987a1f8d09",
-    "name": "SushiSwap LP WETH/NFD",
-    "symbol": "WETH/NFD",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xc40d16476380e4037e6b1a2594caf6a6cc8da967",
-    "name": "SushiSwap LP LINK/WETH",
-    "symbol": "LINK/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x15a8e38942f9e353bec8812763fb3c104c89ecf4",
-    "name": "SushiSwap LP MILADY/WETH",
-    "symbol": "MILADY/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x559ebe4e206e6b4d50e9bd3008cda7ce640c52cb",
-    "name": "SushiSwap LP RADAR/WETH",
-    "symbol": "RADAR/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x110492b31c59716ac47337e616804e3e3adc0b4a",
-    "name": "SushiSwap LP WBTC/BADGER",
-    "symbol": "WBTC/BADGER",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x45b6ffb13e5206dafe2cc8780e4ddc0e32496265",
-    "name": "SushiSwap LP PERC/WETH",
-    "symbol": "PERC/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x95cfa1f48fad82232772d3b1415ad4393517f3b5",
-    "name": "SushiSwap LP XRUNE/WETH",
-    "symbol": "XRUNE/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x9cd028b1287803250b1e226f0180eb725428d069",
-    "name": "SushiSwap LP ICHI/WETH",
-    "symbol": "ICHI/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x1e888882d0f291dd88c5605108c72d414f29d460",
-    "name": "SushiSwap LP USDC/QUARTZ",
-    "symbol": "USDC/QUARTZ",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x99b42f2b49c395d2a77d973f6009abb5d67da343",
-    "name": "SushiSwap LP YGG/WETH",
-    "symbol": "YGG/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xfb3cd0b8a5371fe93ef92e3988d30df7931e2820",
-    "name": "SushiSwap LP WETH/INJ",
-    "symbol": "WETH/INJ",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x7cf6a842e72c4bd7bc92e0c17ebdaa95ac1e7825",
-    "name": "SushiSwap LP WETH/RAIL",
-    "symbol": "WETH/RAIL",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x82dbc2673e9640343d263a3c55de49021ad39ae2",
-    "name": "SushiSwap LP EDEN/WETH",
-    "symbol": "EDEN/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xb5de0c3753b6e1b4dba616db82767f17513e6d4e",
-    "name": "SushiSwap LP SPELL/WETH",
-    "symbol": "SPELL/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x9d45081706102e7aaddd0973268457527722e274",
-    "name": "SushiSwap LP IQ/WETH",
-    "symbol": "IQ/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xaf988aff99d3d0cb870812c325c588d8d8cb7de8",
-    "name": "SushiSwap LP KP3R/WETH",
-    "symbol": "KP3R/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x9461173740d27311b176476fa27e94c681b1ea6b",
-    "name": "SushiSwap LP yvBOOST/WETH",
-    "symbol": "yvBOOST/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x31503dcb60119a812fee820bb7042752019f2355",
-    "name": "SushiSwap LP COMP/WETH",
-    "symbol": "COMP/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xf55c33d94150d93c2cfb833bcca30be388b14964",
-    "name": "SushiSwap LP ALPHA/WETH",
-    "symbol": "ALPHA/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x088ee5007c98a9677165d78dd2109ae4a3d04d0c",
-    "name": "SushiSwap LP YFI/WETH",
-    "symbol": "YFI/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x93e2f3a8277e0360081547d711446e4a1f83546d",
-    "name": "SushiSwap LP PREMIA/WETH",
-    "symbol": "PREMIA/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xe12af1218b4e9272e9628d7c7dc6354d137d024e",
-    "name": "SushiSwap LP BIT/WETH",
-    "symbol": "BIT/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xee35e548c7457fcdd51ae95ed09108be660ea374",
-    "name": "SushiSwap LP OCEAN/WETH",
-    "symbol": "OCEAN/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xe339c1d0a744053cbceb0d2dc2d13967c8a69586",
-    "name": "SushiSwap LP MEEB/WETH",
-    "symbol": "MEEB/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xba13afecda9beb75de5c56bbaf696b880a5a50dd",
-    "name": "SushiSwap LP /WETH",
-    "symbol": "/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x7825de5586e4d2fd04459091bbe783fa243e1bf3",
-    "name": "SushiSwap LP FTX Token/WETH",
-    "symbol": "FTX Token/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x05767d9ef41dc40689678ffca0608878fb3de906",
-    "name": "SushiSwap LP CVX/WETH",
-    "symbol": "CVX/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x10b47177e92ef9d5c6059055d92ddf6290848991",
-    "name": "SushiSwap LP WETH/yveCRV-DAO",
-    "symbol": "WETH/yveCRV-DAO",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x36e2fcccc59e5747ff63a03ea2e5c0c2c14911e7",
-    "name": "SushiSwap LP xSUSHI/WETH",
-    "symbol": "xSUSHI/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xcb2286d9471cc185281c4f763d34a962ed212962",
-    "name": "SushiSwap LP WETH/AMPL",
-    "symbol": "WETH/AMPL",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xd3bbb7fb340c0ea4c0c0b60f35a6ac2b116679e3",
-    "name": "SushiSwap LP USDC/KIRA",
-    "symbol": "USDC/KIRA",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xf1f85b2c54a2bd284b1cf4141d64fd171bd85539",
-    "name": "SushiSwap LP sUSD/WETH",
-    "symbol": "sUSD/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x164fe0239d703379bddde3c80e4d4800a1cd452b",
-    "name": "SushiSwap LP BTC2x-FLI/WBTC",
-    "symbol": "BTC2x-FLI/WBTC",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x22b15c7ee1186a7c7cffb2d942e20fc228f6e4ed",
-    "name": "SushiSwap LP WETH/CIG",
-    "symbol": "WETH/CIG",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x5a70513ec742ebbfb99094c7fd3096a0a3e25b86",
-    "name": "SushiSwap LP WFLOW/WETH",
-    "symbol": "WFLOW/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xdafd66636e2561b0284edde37e42d192f2844d40",
-    "name": "SushiSwap LP UNI/WETH",
-    "symbol": "UNI/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x1f4c763bde1d4832b3ea0640e66da00b98831355",
-    "name": "SushiSwap LP agEUR/ANGLE",
-    "symbol": "agEUR/ANGLE",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xf7ac1f571856d7dbfbb56728c48823a2a19e4326",
-    "name": "SushiSwap LP CLNY/USDC",
-    "symbol": "CLNY/USDC",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xa1181481beb2dc5de0daf2c85392d81c704bf75d",
-    "name": "SushiSwap LP WETH/ENS",
-    "symbol": "WETH/ENS",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x698abbbc986c59d02941e18bc96fe2396493339b",
-    "name": "SushiSwap LP SQGL/WETH",
-    "symbol": "SQGL/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xa75f7c2f025f470355515482bde9efa8153536a8",
-    "name": "SushiSwap LP BAND/WETH",
-    "symbol": "BAND/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x18cd890f4e23422dc4aa8c2d6e0bd3f3bd8873d8",
-    "name": "SushiSwap LP WETH/IMX",
-    "symbol": "WETH/IMX",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xbdd292a8ac7d426820bd0819c697b31c152c9ae6",
-    "name": "SushiSwap LP USDT/PAD",
-    "symbol": "USDT/PAD",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xa2d81bedf22201a77044cdf3ab4d9dc1ffbc391b",
-    "name": "SushiSwap LP ibEUR/WETH",
-    "symbol": "ibEUR/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x58dc5a51fe44589beb22e8ce67720b5bc5378009",
-    "name": "SushiSwap LP WETH/CRV",
-    "symbol": "WETH/CRV",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x5c596c6a65f628fc1090853d8eb1927651e9d9b2",
-    "name": "SushiSwap LP GOG/WETH",
-    "symbol": "GOG/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x001b6450083e531a5a7bf310bd2c1af4247e23d4",
-    "name": "SushiSwap LP UMA/WETH",
-    "symbol": "UMA/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x557b08a0cab46bfe22471b65522757ea92a9e7a5",
-    "name": "SushiSwap LP C98/WETH",
-    "symbol": "C98/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xc4b26b26d720467d96e18f08664a888d4116cea6",
-    "name": "SushiSwap LP UFT/WETH",
-    "symbol": "UFT/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x0a2f9b5360b5c7b6d3ce826971425b3b8b766519",
-    "name": "SushiSwap LP WIZARD/WETH",
-    "symbol": "WIZARD/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xd75ea151a61d06868e31f8988d28dfe5e9df57b4",
-    "name": "SushiSwap LP AAVE/WETH",
-    "symbol": "AAVE/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x15e86e6f65ef7ea1dbb72a5e51a07926fb1c82e3",
-    "name": "SushiSwap LP WETH/AMP",
-    "symbol": "WETH/AMP",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x82917fb0dd65b0e5c85eea66e4f5c1ed484bc629",
-    "name": "SushiSwap LP MULTI/WETH",
-    "symbol": "MULTI/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x519854dd32b4f34f9a407874b0b69218465972d6",
-    "name": "SushiSwap LP RAIL/renBTC",
-    "symbol": "RAIL/renBTC",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xf169cea51eb51774cf107c88309717dda20be167",
-    "name": "SushiSwap LP CREAM/WETH",
-    "symbol": "CREAM/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x476aad8dcd77401c78dd3d029ef3523d9a10a7e5",
-    "name": "SushiSwap LP MAG/WETH",
-    "symbol": "MAG/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xdb06a76733528761eda47d356647297bc35a98bd",
-    "name": "SushiSwap LP WETH/JPEG",
-    "symbol": "WETH/JPEG",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x37922c69b08babcceae735a31235c81f1d1e8e43",
-    "name": "SushiSwap LP PENDLE/WETH",
-    "symbol": "PENDLE/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x269db91fc3c7fcc275c2e6f22e5552504512811c",
-    "name": "SushiSwap LP PICKLE/WETH",
-    "symbol": "PICKLE/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x7f517657496c09c43cc28d0ca131e35dcd557e02",
-    "name": "SushiSwap LP DAI/RAIL",
-    "symbol": "DAI/RAIL",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x4a73d94683f2c9c2aaf32ccd5723f3e243d6a654",
-    "name": "SushiSwap LP DATA/WETH",
-    "symbol": "DATA/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x79e0d4858af8071349469b6589a3c23c1fe1586e",
-    "name": "SushiSwap LP KP3R/LDO",
-    "symbol": "KP3R/LDO",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xc96f20099d96b37d7ede66ff9e4de59b9b1065b1",
-    "name": "SushiSwap LP DOG/WETH",
-    "symbol": "DOG/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xea59a3da9cad8ece406a353ddede0e7d17604d28",
-    "name": "SushiSwap LP WETH/SHX",
-    "symbol": "WETH/SHX",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xa5c475167f03b1556c054e0da78192cd2779087f",
-    "name": "SushiSwap LP FODL/USDC",
-    "symbol": "FODL/USDC",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x24e2adf50c49633039757ab08bff489b7c5bd6b2",
-    "name": "SushiSwap LP RARE/WETH",
-    "symbol": "RARE/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x39f49254d6eaf6b2b2549dfec4ed93cf6bae167f",
-    "name": "SushiSwap LP OMNI/WETH",
-    "symbol": "OMNI/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x55d8ec728ea72477c6db12ca497a803c8db361e9",
-    "name": "SushiSwap LP WETH/BICO",
-    "symbol": "WETH/BICO",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xec8c342bc3e07f05b9a782bc34e7f04fb9b44502",
-    "name": "SushiSwap LP FRAX/WETH",
-    "symbol": "FRAX/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x868d966d6d3d94b115e8b003c443c7a7b04a3359",
-    "name": "SushiSwap LP IOTX/USDT",
-    "symbol": "IOTX/USDT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x938625591adb4e865b882377e2c965f9f9b85e34",
-    "name": "SushiSwap LP BANK/WETH",
-    "symbol": "BANK/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xa1d7b2d891e3a1f9ef4bbc5be20630c2feb1c470",
-    "name": "SushiSwap LP SNX/WETH",
-    "symbol": "SNX/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x0e26a21013f2f8c0362cfae608b4e69a249d5efc",
-    "name": "SushiSwap LP FTM/WETH",
-    "symbol": "FTM/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x0bfcf91f30e0ed718f9be3ea1da6b31c144f49d1",
-    "name": "SushiSwap LP TOWER/PROS",
-    "symbol": "TOWER/PROS",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x6db0fe375ccb8ac3c2a0984d678bcd99981ddcb6",
-    "name": "SushiSwap LP eETH/WETH",
-    "symbol": "eETH/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x230813772d6d3788dfcd3e7b65fb3dd371b3d8d6",
-    "name": "SushiSwap LP GCAKE/WETH",
-    "symbol": "GCAKE/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x7c03cf21483fa45006e81669b991af3a16733a44",
-    "name": "SushiSwap LP CRE8/USDT",
-    "symbol": "CRE8/USDT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xbf97b59b0dfa5f6a27bfd861e661d6e22e6544de",
-    "name": "SushiSwap LP VUSD/USDC",
-    "symbol": "VUSD/USDC",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x82ecdd4635766560c4e3a8efa8a7c1fff566111e",
-    "name": "SushiSwap LP FNC/WETH",
-    "symbol": "FNC/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x724934f5fdd0e938664a39b0b484d055e24f680e",
-    "name": "SushiSwap LP WALLET/USDT",
-    "symbol": "WALLET/USDT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x4b097e7c2705d5a560f028b40bb6de57865c9653",
-    "name": "SushiSwap LP SHOOT/WETH",
-    "symbol": "SHOOT/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xc558f600b34a5f69dd2f0d06cb8a88d829b7420a",
-    "name": "SushiSwap LP LDO/WETH",
-    "symbol": "LDO/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x9a13867048e01c663ce8ce2fe0cdae69ff9f35e3",
-    "name": "SushiSwap LP WBTC/DIGG",
-    "symbol": "WBTC/DIGG",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xc965bc2cf23d54ccf41a7d3af10572580e9b8078",
-    "name": "SushiSwap LP DIA/USDC",
-    "symbol": "DIA/USDC",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xb50580b0d81d9fe860746387cef9a8fc36d48d49",
-    "name": "SushiSwap LP MARS4/WETH",
-    "symbol": "MARS4/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x6469b34a2a4723163c4902dbbdea728d20693c12",
-    "name": "SushiSwap LP NEAR/WETH",
-    "symbol": "NEAR/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x57024267e8272618f9c5037d373043a8646507e5",
-    "name": "SushiSwap LP BPT/WETH",
-    "symbol": "BPT/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x7b504a15ef05f4eed1c07208c5815c49022a0c19",
-    "name": "SushiSwap LP WETH/GRT",
-    "symbol": "WETH/GRT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x67e4423340b56c119749a570afa460f031ac29d6",
-    "name": "SushiSwap LP LINA/USDC",
-    "symbol": "LINA/USDC",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xcb4288ee0484b51ccb8d40893c4812df72cd5f70",
-    "name": "SushiSwap LP OH/WETH",
-    "symbol": "OH/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xc08ed9a9abeabcc53875787573dc32eee5e43513",
-    "name": "SushiSwap LP NEWO/USDC",
-    "symbol": "NEWO/USDC",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x9cbc2a6ab3f10edf7d71c9cf3b6bdb7ee5629550",
-    "name": "SushiSwap LP ADX/WETH",
-    "symbol": "ADX/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x1976bf5cc90bac01e3ae21a6e5971a393638bcfa",
-    "name": "SushiSwap LP SATA/WETH",
-    "symbol": "SATA/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xccb42aaab2ea1f8012c30418ee3fce550954d827",
-    "name": "SushiSwap LP POND/WETH",
-    "symbol": "POND/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x77337ff10206480739a768124a18f3aa8c089153",
-    "name": "SushiSwap LP WETH/ID",
-    "symbol": "WETH/ID",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x96335e7cdbcd91fb33c26991b00cc13a87a811b9",
-    "name": "SushiSwap LP FVT/WETH",
-    "symbol": "FVT/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x94b86ca6f7a495930fe7f552eb9e4cbb5ef2b736",
-    "name": "SushiSwap LP WETH/ICE",
-    "symbol": "WETH/ICE",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x62ccb80f72cc5c975c5bc7fb4433d3c336ce5ceb",
-    "name": "SushiSwap LP WETH/SUPER",
-    "symbol": "WETH/SUPER",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x1bec4db6c3bc499f3dbf289f5499c30d541fec97",
-    "name": "SushiSwap LP MANA/WETH",
-    "symbol": "MANA/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xea9b00b169dda4cbc9fa0a64b0d1e4a6a23a3f34",
-    "name": "SushiSwap LP WXRP/USDC",
-    "symbol": "WXRP/USDC",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xfceaaf9792139bf714a694f868a215493461446d",
-    "name": "SushiSwap LP TRU/WETH",
-    "symbol": "TRU/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x53813285cc60b13fcd2105c6472a47af01f8ac84",
-    "name": "SushiSwap LP BMI/WETH",
-    "symbol": "BMI/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xa73df646512c82550c2b3c0324c4eedee53b400c",
-    "name": "SushiSwap LP INDEX/WETH",
-    "symbol": "INDEX/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xc926990039045611eb1de520c1e249fd0d20a8ea",
-    "name": "SushiSwap LP REVV/WETH",
-    "symbol": "REVV/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xce7e98d4da6ebda6af474ea618c6b175729cd366",
-    "name": "SushiSwap LP FODL/WETH",
-    "symbol": "FODL/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xb90047676cc13e68632c55cb5b7cbd8a4c5a0a8e",
-    "name": "SushiSwap LP VUSD/WETH",
-    "symbol": "VUSD/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xf1e34d19f63b69eaa70952f2f64f735849959833",
-    "name": "SushiSwap LP USDC/STANDARD",
-    "symbol": "USDC/STANDARD",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xb1035d946d6548feca96341485d28eba463ad9cb",
-    "name": "SushiSwap LP UNQT/WETH",
-    "symbol": "UNQT/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xdac0324debd1f036323c0e207a4cd8e78ee6bdff",
-    "name": "SushiSwap LP XFT/WETH",
-    "symbol": "XFT/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x75507bab932fc47531bf1654f243c088a3fa1f69",
-    "name": "SushiSwap LP NST/WETH",
-    "symbol": "NST/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x0b1ed1d00197ce84f0c86003ec4c7f2f06538abc",
-    "name": "SushiSwap LP WETH/SYLO",
-    "symbol": "WETH/SYLO",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xafa43241cf1a1d12268e75f1e7258b805e708da5",
-    "name": "SushiSwap LP WETH/TRU",
-    "symbol": "WETH/TRU",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x877d9c970b8b5501e95967fe845b7293f63e72f7",
-    "name": "SushiSwap LP WETH/WNCG",
-    "symbol": "WETH/WNCG",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x34d7d7aaf50ad4944b70b320acb24c95fa2def7c",
-    "name": "SushiSwap LP OHM/DAI",
-    "symbol": "OHM/DAI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xa872d244b8948dfd6cb7bd19f79e7c1bfb7db4a0",
-    "name": "SushiSwap LP MUST/WETH",
-    "symbol": "MUST/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xe364992388319410c62eb4595d848c8ceb41172b",
-    "name": "SushiSwap LP SPC/WETH",
-    "symbol": "SPC/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x055475920a8c93cffb64d039a8205f7acc7722d3",
-    "name": "SushiSwap LP OHM/DAI",
-    "symbol": "OHM/DAI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xf79321e80acd5fa590936f09acb90ec6471fcbc4",
-    "name": "SushiSwap LP NFTL/WETH",
-    "symbol": "NFTL/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x9d0beec8d63ef6484686d1f8470be62a210b7dbd",
-    "name": "SushiSwap LP WETH/dogep",
-    "symbol": "WETH/dogep",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x30045ad74f4475e82dcdc269952581ecb7cd2bad",
-    "name": "SushiSwap LP WETH/SI",
-    "symbol": "WETH/SI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x31d64f9403e82243e71c2af9d8f56c7dbe10c178",
-    "name": "SushiSwap LP NFTX/WETH",
-    "symbol": "NFTX/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xa416df4d96cd547337a3e8893bf3f01c2a2af5c0",
-    "name": "SushiSwap LP WETH/DOGEGF",
-    "symbol": "WETH/DOGEGF",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xe4ebd836832f1a8a81641111a5b081a2f90b9430",
-    "name": "SushiSwap LP DYDX/WETH",
-    "symbol": "DYDX/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x821808a9e5bce37bf7cdb92516da9fab4ea86c5f",
-    "name": "SushiSwap LP REVV/PROS",
-    "symbol": "REVV/PROS",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xe06f8d30ac334c857fc8c380c85969c150f38a6a",
-    "name": "SushiSwap LP SUSHI/FRAX",
-    "symbol": "SUSHI/FRAX",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x44d34985826578e5ba24ec78c93be968549bb918",
-    "name": "SushiSwap LP BOR/WETH",
-    "symbol": "BOR/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x0bec54c89a7d9f15c4e7faa8d47adedf374462ed",
-    "name": "SushiSwap LP BiFi/WETH",
-    "symbol": "BiFi/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x72075636be2603b91be1cda70fab6ef21ca86989",
-    "name": "SushiSwap LP POWR/WETH",
-    "symbol": "POWR/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x458ae80894a0924ac763c034977e330c565f1687",
-    "name": "SushiSwap LP WETH/PSP",
-    "symbol": "WETH/PSP",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xb84c45174bfc6b8f3eaecbae11dee63114f5c1b2",
-    "name": "SushiSwap LP SOS/WETH",
-    "symbol": "SOS/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x34b13f8cd184f55d0bd4dd1fe6c07d46f245c7ed",
-    "name": "SushiSwap LP DPI/WETH",
-    "symbol": "DPI/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xd84d55532b231dbb305908bc5a10b8c55ba21e5e",
-    "name": "SushiSwap LP OPIUM/WETH",
-    "symbol": "OPIUM/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x2a93167ed63a31f35ca4788e2eb9fbd9fa6089d0",
-    "name": "SushiSwap LP CTX/WETH",
-    "symbol": "CTX/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x77bd0e7ec0de000eea4ec88d51f57f1780e0dfb2",
-    "name": "SushiSwap LP REVV/SUPER",
-    "symbol": "REVV/SUPER",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x18a797c7c70c1bf22fdee1c09062aba709cacf04",
-    "name": "SushiSwap LP WETH/RGT",
-    "symbol": "WETH/RGT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x65f550d18cac8e19a97e73108618b443bf301d20",
-    "name": "SushiSwap LP BONDLY/WETH",
-    "symbol": "BONDLY/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xc2b0f2a7f736d3b908bdde8608177c8fc28c1690",
-    "name": "SushiSwap LP DDX/USDC",
-    "symbol": "DDX/USDC",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x0aa1e808bba7cde5210d13d23ee726de37b8a8bb",
-    "name": "SushiSwap LP MOONCAT/WETH",
-    "symbol": "MOONCAT/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x8fedca1b2aa38dd751bf4cb329d2a1fc5b26e8f2",
-    "name": "SushiSwap LP WETH/PLR",
-    "symbol": "WETH/PLR",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x361edd915e9d58e18f5fa88027e97fec5cb64dce",
-    "name": "SushiSwap LP XRUNE/THOR",
-    "symbol": "XRUNE/THOR",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x88024deacdc2e9eda02a3051377ed635381faa54",
-    "name": "SushiSwap LP VRN/WETH",
-    "symbol": "VRN/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x29c827ce49accf68a1a278c67c9d30c52fbbc348",
-    "name": "SushiSwap LP WETH/VEGA",
-    "symbol": "WETH/VEGA",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x717385e1a702f90b6eb8cd23150702ca7217b626",
-    "name": "SushiSwap LP WETH/COTI",
-    "symbol": "WETH/COTI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x57fbc21ca3c157a26b6ea57334d6b082be1060a7",
-    "name": "SushiSwap LP BAD/WETH",
-    "symbol": "BAD/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x83b546e10917432a722444672504f0d459472171",
-    "name": "SushiSwap LP USDC/ENTR",
-    "symbol": "USDC/ENTR",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xa914a9b9e03b6af84f9c6bd2e0e8d27d405695db",
-    "name": "SushiSwap LP WETH/FOLD",
-    "symbol": "WETH/FOLD",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x07d5695a24904cc1b6e3bd57cc7780b90618e3c4",
-    "name": "SushiSwap LP MIM/WETH",
-    "symbol": "MIM/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x75382c52b6f90b3f8014bfcadac2386513f1e3bc",
-    "name": "SushiSwap LP RLC/WETH",
-    "symbol": "RLC/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x611cde65dea90918c0078ac0400a72b0d25b9bb1",
-    "name": "SushiSwap LP REN/WETH",
-    "symbol": "REN/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x913e197ab56469be9c6f1f1c84520a2ec8a05ebb",
-    "name": "SushiSwap LP WETH/LYM",
-    "symbol": "WETH/LYM",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xfdf12d1f85b5082877a6e070524f50f6c84faa6b",
-    "name": "SushiSwap LP OHM/LUSD",
-    "symbol": "OHM/LUSD",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xaaf5110db6e744ff70fb339de037b990a20bdace",
-    "name": "SushiSwap LP DAI/USDC",
-    "symbol": "DAI/USDC",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x3c34dad27ab51c51dcc0a322ee4f18519d47f3e1",
-    "name": "SushiSwap LP rETH2/WETH",
-    "symbol": "rETH2/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x7e6782e37278994d1e99f1a5d03309b4b249d919",
-    "name": "SushiSwap LP WETH/GOVI",
-    "symbol": "WETH/GOVI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xd3e31f8aac930e354283ca3efda1e22525f98af1",
-    "name": "SushiSwap LP PHUNK/WETH",
-    "symbol": "PHUNK/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xdbaa04796cb5c05d02b8a41b702d9b67c13c9fa9",
-    "name": "SushiSwap LP TOWER/WETH",
-    "symbol": "TOWER/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x7a34bbd9db8686bf9c1489a4682825f65eeafa6e",
-    "name": "SushiSwap LP IBY/USDT",
-    "symbol": "IBY/USDT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x295685c8fe08d8192981d21ea1fe856a07443920",
-    "name": "SushiSwap LP WETH/GODS",
-    "symbol": "WETH/GODS",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xfffae4a0f4ac251f4705717cd24cadccc9f33e06",
-    "name": "SushiSwap LP OHM/WETH",
-    "symbol": "OHM/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x5e63360e891bd60c69445970256c260b0a6a54c6",
-    "name": "SushiSwap LP LEND/WETH",
-    "symbol": "LEND/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xd3c41c080a73181e108e0526475a690f3616a859",
-    "name": "SushiSwap LP DEXTF/WETH",
-    "symbol": "DEXTF/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x22def8cf4e481417cb014d9dc64975ba12e3a184",
-    "name": "SushiSwap LP SDT/WETH",
-    "symbol": "SDT/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x0652687e87a4b8b5370b05bc298ff00d205d9b5f",
-    "name": "SushiSwap LP WETH/ONX",
-    "symbol": "WETH/ONX",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x69b39b89f9274a16e8a19b78e5eb47a4d91dac9e",
-    "name": "SushiSwap LP FARM/WETH",
-    "symbol": "FARM/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xc5578194d457dcce3f272538d1ad52c68d1ce849",
-    "name": "SushiSwap LP DAI/wstETH",
-    "symbol": "DAI/wstETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x41bfba56b9ba48d0a83775d89c247180617266bc",
-    "name": "SushiSwap LP SGT/WETH",
-    "symbol": "SGT/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xb0705c198ed23dcd57259657efe93236e7715c6d",
-    "name": "SushiSwap LP RYOSHI/WETH",
-    "symbol": "RYOSHI/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xb473c2606f7ac371518b13d2d097c34c38ca33d5",
-    "name": "SushiSwap LP TOWER/USDC",
-    "symbol": "TOWER/USDC",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x37fc088cfd67349be00f5504d00ddb7f2274b3f6",
-    "name": "SushiSwap LP XDEFI/WETH",
-    "symbol": "XDEFI/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xd3743fcc49d1d2796447a413be3af274c9231d67",
-    "name": "SushiSwap LP YGG/REVV",
-    "symbol": "YGG/REVV",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x9ebc2a125b1daf3b8a56cb52fa81f89a199e2b38",
-    "name": "SushiSwap LP INSUR/WETH",
-    "symbol": "INSUR/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xaaf448d30f01b429fb6e7f9af6a8ff66e694f312",
-    "name": "SushiSwap LP WETH/USH",
-    "symbol": "WETH/USH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xa39de66d8690d5923fa5e579b19908efb43c8033",
-    "name": "SushiSwap LP EL/USDT",
-    "symbol": "EL/USDT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x2dfe706831a12f0887115f5de1ca72fce4a1204f",
-    "name": "SushiSwap LP WETH/QTO",
-    "symbol": "WETH/QTO",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x0f82e57804d0b1f6fab2370a43dcfad3c7cb239c",
-    "name": "SushiSwap LP YAM/WETH",
-    "symbol": "YAM/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xef4f1d5007b4ff88c1a56261fec00264af6001fb",
-    "name": "SushiSwap LP PNK/WETH",
-    "symbol": "PNK/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x0eee7f7319013df1f24f5eaf83004fcf9cf49245",
-    "name": "SushiSwap LP BAO/WETH",
-    "symbol": "BAO/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xa7f11e026a0af768d285360a855f2bded3047530",
-    "name": "SushiSwap LP IDLE/WETH",
-    "symbol": "IDLE/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x8b00ee8606cc70c2dce68dea0cefe632cca0fb7b",
-    "name": "SushiSwap LP UST/WETH",
-    "symbol": "UST/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xb06626c2d4b01a302aaf18c841e83c382bd6d61f",
-    "name": "SushiSwap LP WETH/TRDM",
-    "symbol": "WETH/TRDM",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x0c365789dbbb94a29f8720dc465554c587e897db",
-    "name": "SushiSwap LP AXS/WETH",
-    "symbol": "AXS/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x7f8f7dd53d1f3ac1052565e3ff451d7fe666a311",
-    "name": "SushiSwap LP MATIC/WETH",
-    "symbol": "MATIC/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xe62f9cc7241d25030725183fb687547959580f40",
-    "name": "SushiSwap LP PLY/USDT",
-    "symbol": "PLY/USDT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x81ef0c70fa76c8e7563cb26ee34a2e7f2a77c410",
-    "name": "SushiSwap LP USDC/ARA",
-    "symbol": "USDC/ARA",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x328dfd0139e26cb0fef7b0742b49b0fe4325f821",
-    "name": "SushiSwap LP INV/WETH",
-    "symbol": "INV/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x132eeb05d5cb6829bd34f552cde0b6b708ef5014",
-    "name": "SushiSwap LP VSP/WETH",
-    "symbol": "VSP/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xb2c29e311916a346304f83aa44527092d5bd4f0f",
-    "name": "SushiSwap LP MPH/WETH",
-    "symbol": "MPH/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x53aabccae8c1713a6a150d9981d2ee867d0720e8",
-    "name": "SushiSwap LP WETH/RARI",
-    "symbol": "WETH/RARI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xf5ca27927ffb16bd8c870dcb49750146cce8217c",
-    "name": "SushiSwap LP WOO/USDC",
-    "symbol": "WOO/USDC",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x98c2f9d752e044dc2e1f1743bf0b76a7096eceb2",
-    "name": "SushiSwap LP USDT/FRONT",
-    "symbol": "USDT/FRONT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x1ad651a07b98464aa42f6cad68d0ce8639b659a5",
-    "name": "SushiSwap LP WETH/MEZZ",
-    "symbol": "WETH/MEZZ",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x7bc735d6974f6153b1de24e40c0bf5715ca7fe1d",
-    "name": "SushiSwap LP XAI/USDC",
-    "symbol": "XAI/USDC",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xa8aec03d5cf2824fd984ee249493d6d4d6740e61",
-    "name": "SushiSwap LP API3/WETH",
-    "symbol": "API3/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x1c934bc86839b5718a1bdf69880de56f65388531",
-    "name": "SushiSwap LP MODA/WETH",
-    "symbol": "MODA/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x577959c519c24ee6add28ad96d3531bc6878ba34",
-    "name": "SushiSwap LP POOL/WETH",
-    "symbol": "POOL/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x58985d43735a19286a41c5cdd02ed16f85ac9d80",
-    "name": "SushiSwap LP WETH/KEYS",
-    "symbol": "WETH/KEYS",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x9c86bc3c72ab97c2234cba8c6c7069009465ae86",
-    "name": "SushiSwap LP WSCRT/WETH",
-    "symbol": "WSCRT/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x23a9292830fc80db7f563edb28d2fe6fb47f8624",
-    "name": "SushiSwap LP SFI/WETH",
-    "symbol": "SFI/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x760166fa4f227da29ecac3bec348f5fa853a1f3c",
-    "name": "SushiSwap LP TUSD/WETH",
-    "symbol": "TUSD/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x0f337c77b5209ba363ad821ee5b0d6db4964f59b",
-    "name": "SushiSwap LP DAI/IDLE",
-    "symbol": "DAI/IDLE",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xd46004eed3885e0a74d452811c80eb41270a5728",
-    "name": "SushiSwap LP BUILD/DAI",
-    "symbol": "BUILD/DAI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x5ba61c0a8c4dcccc200cd0ccc40a5725a426d002",
-    "name": "SushiSwap LP INV/DOLA",
-    "symbol": "INV/DOLA",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xbe844f05e3eada9453156e3fe5c39891b4245bc6",
-    "name": "SushiSwap LP KKO/WETH",
-    "symbol": "KKO/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xb27c7b131cf4915bec6c4bc1ce2f33f9ee434b9f",
-    "name": "SushiSwap LP APE/USDT",
-    "symbol": "APE/USDT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xf8937dc1ca081161527c0bc1eb6379420195c894",
-    "name": "SushiSwap LP BCMC/WETH",
-    "symbol": "BCMC/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x840fdb210cf93318e8a16a51f24938c866a32d3c",
-    "name": "SushiSwap LP CRU/USDT",
-    "symbol": "CRU/USDT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x26e6a391953169d141df36834acfd9c61d3d4d59",
-    "name": "SushiSwap LP MASQ/WETH",
-    "symbol": "MASQ/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x17a2194d55f52fd0c711e0e42b41975494bb109b",
-    "name": "SushiSwap LP ARMOR/WETH",
-    "symbol": "ARMOR/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x53162d78dca413d9e28cf62799d17a9e278b60e8",
-    "name": "SushiSwap LP APW/WETH",
-    "symbol": "APW/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x3e04863dba602713bb5d0edbf7db7c3a9a2b6027",
-    "name": "SushiSwap LP UwU/WETH",
-    "symbol": "UwU/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x742c15d71ea7444964bc39b0ed729b3729adc361",
-    "name": "SushiSwap LP WETH/OMG",
-    "symbol": "WETH/OMG",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x201e6a9e75df132a8598720433af35fe8d73e94d",
-    "name": "SushiSwap LP ANT/WETH",
-    "symbol": "ANT/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x6463bd6026a2e7bfab5851b62969a92f7cca0eb6",
-    "name": "SushiSwap LP HEGIC/WETH",
-    "symbol": "HEGIC/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x33f6ddaea2a8a54062e021873bcaee006cdf4007",
-    "name": "SushiSwap LP cvxCRV/CRV",
-    "symbol": "cvxCRV/CRV",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xd920a4bda8ecf4ac06ea2897f9a5a38a55e9ac6e",
-    "name": "SushiSwap LP SHPING/WETH",
-    "symbol": "SHPING/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x5fa4370164a2fabeef159b893299d59ff5dc1e6d",
-    "name": "SushiSwap LP BENT/DAI",
-    "symbol": "BENT/DAI",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x2f8ac927aa94293461c75406e90ec0ccfb2748d9",
-    "name": "SushiSwap LP WETH/MLN",
-    "symbol": "WETH/MLN",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xdab6d56915d36060c8d6cf29a7a84910da614603",
-    "name": "SushiSwap LP Metis/WETH",
-    "symbol": "Metis/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x9e48fadf799e0513d2ef4631478ea186741fa617",
-    "name": "SushiSwap LP AERGO/WETH",
-    "symbol": "AERGO/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x364248b2f1f57c5402d244b2d469a35b4c0e9dab",
-    "name": "SushiSwap LP AKRO/WETH",
-    "symbol": "AKRO/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xa3dfbf2933ff3d96177bde4928d0f5840ee55600",
-    "name": "SushiSwap LP DERI/USDT",
-    "symbol": "DERI/USDT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xd9a1df87e01b31f1154f788041625030af1927be",
-    "name": "SushiSwap LP $TUCKER/WETH",
-    "symbol": "$TUCKER/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x097b21e4784c2b224fd8b880939f75b2e9f4dba5",
-    "name": "SushiSwap LP MIS3/USDT",
-    "symbol": "MIS3/USDT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xbb19141e045b133169d7c7160c5e54a54cc821b2",
-    "name": "SushiSwap LP GET/WETH",
-    "symbol": "GET/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x90e4ccd73bb850754d4324ca65e00753fb41da51",
-    "name": "SushiSwap LP TOWER/BONDLY",
-    "symbol": "TOWER/BONDLY",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x52dac05fc0000e9f01ce9a1e91592bfbfce87350",
-    "name": "SushiSwap LP LYRA/WETH",
-    "symbol": "LYRA/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x613c836df6695c10f0f4900528b6931441ac5d5a",
-    "name": "SushiSwap LP BOND/WETH",
-    "symbol": "BOND/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x87b918e76c92818db0c76a4e174447aee6e6d23f",
-    "name": "SushiSwap LP MOVE/WETH",
-    "symbol": "MOVE/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x56820f78efd1061d174f7a460cfd9d8e4283069b",
-    "name": "SushiSwap LP GLM/WETH",
-    "symbol": "GLM/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xb270176ba6075196df88b855c3ec7776871fdb33",
-    "name": "SushiSwap LP TORN/WETH",
-    "symbol": "TORN/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x6f81427d641f865a3a4050ec220474b65599d543",
-    "name": "SushiSwap LP TOWER/REVV",
-    "symbol": "TOWER/REVV",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x17890deb188f2de6c3e966e053da1c9a111ed4a5",
-    "name": "SushiSwap LP USDC/CQT",
-    "symbol": "USDC/CQT",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xa7a8edfda2b8bf1e5084e2765811effee21ef918",
-    "name": "SushiSwap LP WXRP/WETH",
-    "symbol": "WXRP/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x7835cb043e8d53a5b361d489956d6c30808349da",
-    "name": "SushiSwap LP WBTC/POLY",
-    "symbol": "WBTC/POLY",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x04444d365324134e58104b1d874d00dc68dcea53",
-    "name": "SushiSwap LP NU/WETH",
-    "symbol": "NU/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0xbbbdb106a806173d1eea1640961533ff3114d69a",
-    "name": "SushiSwap LP XYZ/USDC",
-    "symbol": "XYZ/USDC",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x51c1dc85f57fdaf591606e2adcc34adc96b04006",
-    "name": "SushiSwap LP LMT/WETH",
-    "symbol": "LMT/WETH",
-    "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
-  }
+      {
+        "chainId": 1,
+        "address": "0xceff51756c56ceffca006cd410b03ffc46dd3a58",
+        "name": "SushiSwap LP WBTC/WETH",
+        "symbol": "WBTC/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x6a091a3406e0073c3cd6340122143009adac0eda",
+        "name": "SushiSwap LP ILV/WETH",
+        "symbol": "ILV/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x397ff1542f962076d0bfe58ea045ffa2d347aca0",
+        "name": "SushiSwap LP USDC/WETH",
+        "symbol": "USDC/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xc3d03e4f041fd4cd388c549ee2a29a9e5075882f",
+        "name": "SushiSwap LP DAI/WETH",
+        "symbol": "DAI/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x1498bd576454159bb81b5ce532692a8752d163e8",
+        "name": "SushiSwap LP DELTA/WETH",
+        "symbol": "DELTA/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x55d31f68975e446a40a2d02ffa4b0e1bfb233c2f",
+        "name": "SushiSwap LP LON/USDT",
+        "symbol": "LON/USDT",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x0463a06fbc8bf28b3f120cd1bfc59483f099d332",
+        "name": "SushiSwap LP PUNK/WETH",
+        "symbol": "PUNK/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x795065dcc9f64b5614c407a6efdc400da6221fb0",
+        "name": "SushiSwap LP SUSHI/WETH",
+        "symbol": "SUSHI/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xc3f279090a47e80990fe3a9c30d24cb117ef91a8",
+        "name": "SushiSwap LP WETH/ALCX",
+        "symbol": "WETH/ALCX",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x4a86c01d67965f8cb3d0aaa2c655705e64097c31",
+        "name": "SushiSwap LP SYN/WETH",
+        "symbol": "SYN/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xd4e7a6e2d03e4e48dfc27dd3f46df1c176647e38",
+        "name": "SushiSwap LP TOKE/WETH",
+        "symbol": "TOKE/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x3d3f13f2529ec3c84b2940155effbf9b39a8f3ec",
+        "name": "SushiSwap LP THOR/WETH",
+        "symbol": "THOR/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x06da0fd433c1a5d7a4faa01111c044910a184553",
+        "name": "SushiSwap LP WETH/USDT",
+        "symbol": "WETH/USDT",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xeefa3b448768dd561af4f743c9e925987a1f8d09",
+        "name": "SushiSwap LP WETH/NFD",
+        "symbol": "WETH/NFD",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xc40d16476380e4037e6b1a2594caf6a6cc8da967",
+        "name": "SushiSwap LP LINK/WETH",
+        "symbol": "LINK/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x15a8e38942f9e353bec8812763fb3c104c89ecf4",
+        "name": "SushiSwap LP MILADY/WETH",
+        "symbol": "MILADY/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x559ebe4e206e6b4d50e9bd3008cda7ce640c52cb",
+        "name": "SushiSwap LP RADAR/WETH",
+        "symbol": "RADAR/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x110492b31c59716ac47337e616804e3e3adc0b4a",
+        "name": "SushiSwap LP WBTC/BADGER",
+        "symbol": "WBTC/BADGER",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x45b6ffb13e5206dafe2cc8780e4ddc0e32496265",
+        "name": "SushiSwap LP PERC/WETH",
+        "symbol": "PERC/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x95cfa1f48fad82232772d3b1415ad4393517f3b5",
+        "name": "SushiSwap LP XRUNE/WETH",
+        "symbol": "XRUNE/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x9cd028b1287803250b1e226f0180eb725428d069",
+        "name": "SushiSwap LP ICHI/WETH",
+        "symbol": "ICHI/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x1e888882d0f291dd88c5605108c72d414f29d460",
+        "name": "SushiSwap LP USDC/QUARTZ",
+        "symbol": "USDC/QUARTZ",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x99b42f2b49c395d2a77d973f6009abb5d67da343",
+        "name": "SushiSwap LP YGG/WETH",
+        "symbol": "YGG/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xfb3cd0b8a5371fe93ef92e3988d30df7931e2820",
+        "name": "SushiSwap LP WETH/INJ",
+        "symbol": "WETH/INJ",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x7cf6a842e72c4bd7bc92e0c17ebdaa95ac1e7825",
+        "name": "SushiSwap LP WETH/RAIL",
+        "symbol": "WETH/RAIL",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x82dbc2673e9640343d263a3c55de49021ad39ae2",
+        "name": "SushiSwap LP EDEN/WETH",
+        "symbol": "EDEN/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xb5de0c3753b6e1b4dba616db82767f17513e6d4e",
+        "name": "SushiSwap LP SPELL/WETH",
+        "symbol": "SPELL/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x9d45081706102e7aaddd0973268457527722e274",
+        "name": "SushiSwap LP IQ/WETH",
+        "symbol": "IQ/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xaf988aff99d3d0cb870812c325c588d8d8cb7de8",
+        "name": "SushiSwap LP KP3R/WETH",
+        "symbol": "KP3R/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x9461173740d27311b176476fa27e94c681b1ea6b",
+        "name": "SushiSwap LP yvBOOST/WETH",
+        "symbol": "yvBOOST/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x31503dcb60119a812fee820bb7042752019f2355",
+        "name": "SushiSwap LP COMP/WETH",
+        "symbol": "COMP/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xf55c33d94150d93c2cfb833bcca30be388b14964",
+        "name": "SushiSwap LP ALPHA/WETH",
+        "symbol": "ALPHA/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x088ee5007c98a9677165d78dd2109ae4a3d04d0c",
+        "name": "SushiSwap LP YFI/WETH",
+        "symbol": "YFI/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x93e2f3a8277e0360081547d711446e4a1f83546d",
+        "name": "SushiSwap LP PREMIA/WETH",
+        "symbol": "PREMIA/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xe12af1218b4e9272e9628d7c7dc6354d137d024e",
+        "name": "SushiSwap LP BIT/WETH",
+        "symbol": "BIT/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xee35e548c7457fcdd51ae95ed09108be660ea374",
+        "name": "SushiSwap LP OCEAN/WETH",
+        "symbol": "OCEAN/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xe339c1d0a744053cbceb0d2dc2d13967c8a69586",
+        "name": "SushiSwap LP MEEB/WETH",
+        "symbol": "MEEB/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xba13afecda9beb75de5c56bbaf696b880a5a50dd",
+        "name": "SushiSwap LP /WETH",
+        "symbol": "/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x7825de5586e4d2fd04459091bbe783fa243e1bf3",
+        "name": "SushiSwap LP FTX Token/WETH",
+        "symbol": "FTX Token/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x05767d9ef41dc40689678ffca0608878fb3de906",
+        "name": "SushiSwap LP CVX/WETH",
+        "symbol": "CVX/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x10b47177e92ef9d5c6059055d92ddf6290848991",
+        "name": "SushiSwap LP WETH/yveCRV-DAO",
+        "symbol": "WETH/yveCRV-DAO",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x36e2fcccc59e5747ff63a03ea2e5c0c2c14911e7",
+        "name": "SushiSwap LP xSUSHI/WETH",
+        "symbol": "xSUSHI/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xcb2286d9471cc185281c4f763d34a962ed212962",
+        "name": "SushiSwap LP WETH/AMPL",
+        "symbol": "WETH/AMPL",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xd3bbb7fb340c0ea4c0c0b60f35a6ac2b116679e3",
+        "name": "SushiSwap LP USDC/KIRA",
+        "symbol": "USDC/KIRA",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xf1f85b2c54a2bd284b1cf4141d64fd171bd85539",
+        "name": "SushiSwap LP sUSD/WETH",
+        "symbol": "sUSD/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x164fe0239d703379bddde3c80e4d4800a1cd452b",
+        "name": "SushiSwap LP BTC2x-FLI/WBTC",
+        "symbol": "BTC2x-FLI/WBTC",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x22b15c7ee1186a7c7cffb2d942e20fc228f6e4ed",
+        "name": "SushiSwap LP WETH/CIG",
+        "symbol": "WETH/CIG",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x5a70513ec742ebbfb99094c7fd3096a0a3e25b86",
+        "name": "SushiSwap LP WFLOW/WETH",
+        "symbol": "WFLOW/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xdafd66636e2561b0284edde37e42d192f2844d40",
+        "name": "SushiSwap LP UNI/WETH",
+        "symbol": "UNI/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x1f4c763bde1d4832b3ea0640e66da00b98831355",
+        "name": "SushiSwap LP agEUR/ANGLE",
+        "symbol": "agEUR/ANGLE",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xf7ac1f571856d7dbfbb56728c48823a2a19e4326",
+        "name": "SushiSwap LP CLNY/USDC",
+        "symbol": "CLNY/USDC",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xa1181481beb2dc5de0daf2c85392d81c704bf75d",
+        "name": "SushiSwap LP WETH/ENS",
+        "symbol": "WETH/ENS",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x698abbbc986c59d02941e18bc96fe2396493339b",
+        "name": "SushiSwap LP SQGL/WETH",
+        "symbol": "SQGL/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xa75f7c2f025f470355515482bde9efa8153536a8",
+        "name": "SushiSwap LP BAND/WETH",
+        "symbol": "BAND/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x18cd890f4e23422dc4aa8c2d6e0bd3f3bd8873d8",
+        "name": "SushiSwap LP WETH/IMX",
+        "symbol": "WETH/IMX",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xbdd292a8ac7d426820bd0819c697b31c152c9ae6",
+        "name": "SushiSwap LP USDT/PAD",
+        "symbol": "USDT/PAD",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xa2d81bedf22201a77044cdf3ab4d9dc1ffbc391b",
+        "name": "SushiSwap LP ibEUR/WETH",
+        "symbol": "ibEUR/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x58dc5a51fe44589beb22e8ce67720b5bc5378009",
+        "name": "SushiSwap LP WETH/CRV",
+        "symbol": "WETH/CRV",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x5c596c6a65f628fc1090853d8eb1927651e9d9b2",
+        "name": "SushiSwap LP GOG/WETH",
+        "symbol": "GOG/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x001b6450083e531a5a7bf310bd2c1af4247e23d4",
+        "name": "SushiSwap LP UMA/WETH",
+        "symbol": "UMA/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x557b08a0cab46bfe22471b65522757ea92a9e7a5",
+        "name": "SushiSwap LP C98/WETH",
+        "symbol": "C98/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xc4b26b26d720467d96e18f08664a888d4116cea6",
+        "name": "SushiSwap LP UFT/WETH",
+        "symbol": "UFT/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x0a2f9b5360b5c7b6d3ce826971425b3b8b766519",
+        "name": "SushiSwap LP WIZARD/WETH",
+        "symbol": "WIZARD/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xd75ea151a61d06868e31f8988d28dfe5e9df57b4",
+        "name": "SushiSwap LP AAVE/WETH",
+        "symbol": "AAVE/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x15e86e6f65ef7ea1dbb72a5e51a07926fb1c82e3",
+        "name": "SushiSwap LP WETH/AMP",
+        "symbol": "WETH/AMP",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x82917fb0dd65b0e5c85eea66e4f5c1ed484bc629",
+        "name": "SushiSwap LP MULTI/WETH",
+        "symbol": "MULTI/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x519854dd32b4f34f9a407874b0b69218465972d6",
+        "name": "SushiSwap LP RAIL/renBTC",
+        "symbol": "RAIL/renBTC",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xf169cea51eb51774cf107c88309717dda20be167",
+        "name": "SushiSwap LP CREAM/WETH",
+        "symbol": "CREAM/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x476aad8dcd77401c78dd3d029ef3523d9a10a7e5",
+        "name": "SushiSwap LP MAG/WETH",
+        "symbol": "MAG/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xdb06a76733528761eda47d356647297bc35a98bd",
+        "name": "SushiSwap LP WETH/JPEG",
+        "symbol": "WETH/JPEG",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x37922c69b08babcceae735a31235c81f1d1e8e43",
+        "name": "SushiSwap LP PENDLE/WETH",
+        "symbol": "PENDLE/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x269db91fc3c7fcc275c2e6f22e5552504512811c",
+        "name": "SushiSwap LP PICKLE/WETH",
+        "symbol": "PICKLE/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x7f517657496c09c43cc28d0ca131e35dcd557e02",
+        "name": "SushiSwap LP DAI/RAIL",
+        "symbol": "DAI/RAIL",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x4a73d94683f2c9c2aaf32ccd5723f3e243d6a654",
+        "name": "SushiSwap LP DATA/WETH",
+        "symbol": "DATA/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x79e0d4858af8071349469b6589a3c23c1fe1586e",
+        "name": "SushiSwap LP KP3R/LDO",
+        "symbol": "KP3R/LDO",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xc96f20099d96b37d7ede66ff9e4de59b9b1065b1",
+        "name": "SushiSwap LP DOG/WETH",
+        "symbol": "DOG/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xea59a3da9cad8ece406a353ddede0e7d17604d28",
+        "name": "SushiSwap LP WETH/SHX",
+        "symbol": "WETH/SHX",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xa5c475167f03b1556c054e0da78192cd2779087f",
+        "name": "SushiSwap LP FODL/USDC",
+        "symbol": "FODL/USDC",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x24e2adf50c49633039757ab08bff489b7c5bd6b2",
+        "name": "SushiSwap LP RARE/WETH",
+        "symbol": "RARE/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x39f49254d6eaf6b2b2549dfec4ed93cf6bae167f",
+        "name": "SushiSwap LP OMNI/WETH",
+        "symbol": "OMNI/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x55d8ec728ea72477c6db12ca497a803c8db361e9",
+        "name": "SushiSwap LP WETH/BICO",
+        "symbol": "WETH/BICO",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xec8c342bc3e07f05b9a782bc34e7f04fb9b44502",
+        "name": "SushiSwap LP FRAX/WETH",
+        "symbol": "FRAX/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x868d966d6d3d94b115e8b003c443c7a7b04a3359",
+        "name": "SushiSwap LP IOTX/USDT",
+        "symbol": "IOTX/USDT",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x938625591adb4e865b882377e2c965f9f9b85e34",
+        "name": "SushiSwap LP BANK/WETH",
+        "symbol": "BANK/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xa1d7b2d891e3a1f9ef4bbc5be20630c2feb1c470",
+        "name": "SushiSwap LP SNX/WETH",
+        "symbol": "SNX/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x0e26a21013f2f8c0362cfae608b4e69a249d5efc",
+        "name": "SushiSwap LP FTM/WETH",
+        "symbol": "FTM/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x0bfcf91f30e0ed718f9be3ea1da6b31c144f49d1",
+        "name": "SushiSwap LP TOWER/PROS",
+        "symbol": "TOWER/PROS",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x6db0fe375ccb8ac3c2a0984d678bcd99981ddcb6",
+        "name": "SushiSwap LP eETH/WETH",
+        "symbol": "eETH/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x230813772d6d3788dfcd3e7b65fb3dd371b3d8d6",
+        "name": "SushiSwap LP GCAKE/WETH",
+        "symbol": "GCAKE/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x7c03cf21483fa45006e81669b991af3a16733a44",
+        "name": "SushiSwap LP CRE8/USDT",
+        "symbol": "CRE8/USDT",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xbf97b59b0dfa5f6a27bfd861e661d6e22e6544de",
+        "name": "SushiSwap LP VUSD/USDC",
+        "symbol": "VUSD/USDC",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x82ecdd4635766560c4e3a8efa8a7c1fff566111e",
+        "name": "SushiSwap LP FNC/WETH",
+        "symbol": "FNC/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x724934f5fdd0e938664a39b0b484d055e24f680e",
+        "name": "SushiSwap LP WALLET/USDT",
+        "symbol": "WALLET/USDT",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x4b097e7c2705d5a560f028b40bb6de57865c9653",
+        "name": "SushiSwap LP SHOOT/WETH",
+        "symbol": "SHOOT/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xc558f600b34a5f69dd2f0d06cb8a88d829b7420a",
+        "name": "SushiSwap LP LDO/WETH",
+        "symbol": "LDO/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x9a13867048e01c663ce8ce2fe0cdae69ff9f35e3",
+        "name": "SushiSwap LP WBTC/DIGG",
+        "symbol": "WBTC/DIGG",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xc965bc2cf23d54ccf41a7d3af10572580e9b8078",
+        "name": "SushiSwap LP DIA/USDC",
+        "symbol": "DIA/USDC",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xb50580b0d81d9fe860746387cef9a8fc36d48d49",
+        "name": "SushiSwap LP MARS4/WETH",
+        "symbol": "MARS4/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x6469b34a2a4723163c4902dbbdea728d20693c12",
+        "name": "SushiSwap LP NEAR/WETH",
+        "symbol": "NEAR/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x57024267e8272618f9c5037d373043a8646507e5",
+        "name": "SushiSwap LP BPT/WETH",
+        "symbol": "BPT/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x7b504a15ef05f4eed1c07208c5815c49022a0c19",
+        "name": "SushiSwap LP WETH/GRT",
+        "symbol": "WETH/GRT",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x67e4423340b56c119749a570afa460f031ac29d6",
+        "name": "SushiSwap LP LINA/USDC",
+        "symbol": "LINA/USDC",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xcb4288ee0484b51ccb8d40893c4812df72cd5f70",
+        "name": "SushiSwap LP OH/WETH",
+        "symbol": "OH/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xc08ed9a9abeabcc53875787573dc32eee5e43513",
+        "name": "SushiSwap LP NEWO/USDC",
+        "symbol": "NEWO/USDC",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x9cbc2a6ab3f10edf7d71c9cf3b6bdb7ee5629550",
+        "name": "SushiSwap LP ADX/WETH",
+        "symbol": "ADX/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x1976bf5cc90bac01e3ae21a6e5971a393638bcfa",
+        "name": "SushiSwap LP SATA/WETH",
+        "symbol": "SATA/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xccb42aaab2ea1f8012c30418ee3fce550954d827",
+        "name": "SushiSwap LP POND/WETH",
+        "symbol": "POND/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x77337ff10206480739a768124a18f3aa8c089153",
+        "name": "SushiSwap LP WETH/ID",
+        "symbol": "WETH/ID",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x96335e7cdbcd91fb33c26991b00cc13a87a811b9",
+        "name": "SushiSwap LP FVT/WETH",
+        "symbol": "FVT/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x94b86ca6f7a495930fe7f552eb9e4cbb5ef2b736",
+        "name": "SushiSwap LP WETH/ICE",
+        "symbol": "WETH/ICE",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x62ccb80f72cc5c975c5bc7fb4433d3c336ce5ceb",
+        "name": "SushiSwap LP WETH/SUPER",
+        "symbol": "WETH/SUPER",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x1bec4db6c3bc499f3dbf289f5499c30d541fec97",
+        "name": "SushiSwap LP MANA/WETH",
+        "symbol": "MANA/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xea9b00b169dda4cbc9fa0a64b0d1e4a6a23a3f34",
+        "name": "SushiSwap LP WXRP/USDC",
+        "symbol": "WXRP/USDC",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xfceaaf9792139bf714a694f868a215493461446d",
+        "name": "SushiSwap LP TRU/WETH",
+        "symbol": "TRU/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x53813285cc60b13fcd2105c6472a47af01f8ac84",
+        "name": "SushiSwap LP BMI/WETH",
+        "symbol": "BMI/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xa73df646512c82550c2b3c0324c4eedee53b400c",
+        "name": "SushiSwap LP INDEX/WETH",
+        "symbol": "INDEX/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xc926990039045611eb1de520c1e249fd0d20a8ea",
+        "name": "SushiSwap LP REVV/WETH",
+        "symbol": "REVV/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xce7e98d4da6ebda6af474ea618c6b175729cd366",
+        "name": "SushiSwap LP FODL/WETH",
+        "symbol": "FODL/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xb90047676cc13e68632c55cb5b7cbd8a4c5a0a8e",
+        "name": "SushiSwap LP VUSD/WETH",
+        "symbol": "VUSD/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xf1e34d19f63b69eaa70952f2f64f735849959833",
+        "name": "SushiSwap LP USDC/STANDARD",
+        "symbol": "USDC/STANDARD",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xb1035d946d6548feca96341485d28eba463ad9cb",
+        "name": "SushiSwap LP UNQT/WETH",
+        "symbol": "UNQT/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xdac0324debd1f036323c0e207a4cd8e78ee6bdff",
+        "name": "SushiSwap LP XFT/WETH",
+        "symbol": "XFT/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x75507bab932fc47531bf1654f243c088a3fa1f69",
+        "name": "SushiSwap LP NST/WETH",
+        "symbol": "NST/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x0b1ed1d00197ce84f0c86003ec4c7f2f06538abc",
+        "name": "SushiSwap LP WETH/SYLO",
+        "symbol": "WETH/SYLO",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xafa43241cf1a1d12268e75f1e7258b805e708da5",
+        "name": "SushiSwap LP WETH/TRU",
+        "symbol": "WETH/TRU",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x877d9c970b8b5501e95967fe845b7293f63e72f7",
+        "name": "SushiSwap LP WETH/WNCG",
+        "symbol": "WETH/WNCG",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x34d7d7aaf50ad4944b70b320acb24c95fa2def7c",
+        "name": "SushiSwap LP OHM/DAI",
+        "symbol": "OHM/DAI",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xa872d244b8948dfd6cb7bd19f79e7c1bfb7db4a0",
+        "name": "SushiSwap LP MUST/WETH",
+        "symbol": "MUST/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xe364992388319410c62eb4595d848c8ceb41172b",
+        "name": "SushiSwap LP SPC/WETH",
+        "symbol": "SPC/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x055475920a8c93cffb64d039a8205f7acc7722d3",
+        "name": "SushiSwap LP OHM/DAI",
+        "symbol": "OHM/DAI",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xf79321e80acd5fa590936f09acb90ec6471fcbc4",
+        "name": "SushiSwap LP NFTL/WETH",
+        "symbol": "NFTL/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x9d0beec8d63ef6484686d1f8470be62a210b7dbd",
+        "name": "SushiSwap LP WETH/dogep",
+        "symbol": "WETH/dogep",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x30045ad74f4475e82dcdc269952581ecb7cd2bad",
+        "name": "SushiSwap LP WETH/SI",
+        "symbol": "WETH/SI",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x31d64f9403e82243e71c2af9d8f56c7dbe10c178",
+        "name": "SushiSwap LP NFTX/WETH",
+        "symbol": "NFTX/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xa416df4d96cd547337a3e8893bf3f01c2a2af5c0",
+        "name": "SushiSwap LP WETH/DOGEGF",
+        "symbol": "WETH/DOGEGF",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xe4ebd836832f1a8a81641111a5b081a2f90b9430",
+        "name": "SushiSwap LP DYDX/WETH",
+        "symbol": "DYDX/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x821808a9e5bce37bf7cdb92516da9fab4ea86c5f",
+        "name": "SushiSwap LP REVV/PROS",
+        "symbol": "REVV/PROS",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xe06f8d30ac334c857fc8c380c85969c150f38a6a",
+        "name": "SushiSwap LP SUSHI/FRAX",
+        "symbol": "SUSHI/FRAX",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x44d34985826578e5ba24ec78c93be968549bb918",
+        "name": "SushiSwap LP BOR/WETH",
+        "symbol": "BOR/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x0bec54c89a7d9f15c4e7faa8d47adedf374462ed",
+        "name": "SushiSwap LP BiFi/WETH",
+        "symbol": "BiFi/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x72075636be2603b91be1cda70fab6ef21ca86989",
+        "name": "SushiSwap LP POWR/WETH",
+        "symbol": "POWR/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x458ae80894a0924ac763c034977e330c565f1687",
+        "name": "SushiSwap LP WETH/PSP",
+        "symbol": "WETH/PSP",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xb84c45174bfc6b8f3eaecbae11dee63114f5c1b2",
+        "name": "SushiSwap LP SOS/WETH",
+        "symbol": "SOS/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x34b13f8cd184f55d0bd4dd1fe6c07d46f245c7ed",
+        "name": "SushiSwap LP DPI/WETH",
+        "symbol": "DPI/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xd84d55532b231dbb305908bc5a10b8c55ba21e5e",
+        "name": "SushiSwap LP OPIUM/WETH",
+        "symbol": "OPIUM/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x2a93167ed63a31f35ca4788e2eb9fbd9fa6089d0",
+        "name": "SushiSwap LP CTX/WETH",
+        "symbol": "CTX/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x77bd0e7ec0de000eea4ec88d51f57f1780e0dfb2",
+        "name": "SushiSwap LP REVV/SUPER",
+        "symbol": "REVV/SUPER",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x18a797c7c70c1bf22fdee1c09062aba709cacf04",
+        "name": "SushiSwap LP WETH/RGT",
+        "symbol": "WETH/RGT",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x65f550d18cac8e19a97e73108618b443bf301d20",
+        "name": "SushiSwap LP BONDLY/WETH",
+        "symbol": "BONDLY/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xc2b0f2a7f736d3b908bdde8608177c8fc28c1690",
+        "name": "SushiSwap LP DDX/USDC",
+        "symbol": "DDX/USDC",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x0aa1e808bba7cde5210d13d23ee726de37b8a8bb",
+        "name": "SushiSwap LP MOONCAT/WETH",
+        "symbol": "MOONCAT/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x8fedca1b2aa38dd751bf4cb329d2a1fc5b26e8f2",
+        "name": "SushiSwap LP WETH/PLR",
+        "symbol": "WETH/PLR",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x361edd915e9d58e18f5fa88027e97fec5cb64dce",
+        "name": "SushiSwap LP XRUNE/THOR",
+        "symbol": "XRUNE/THOR",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x88024deacdc2e9eda02a3051377ed635381faa54",
+        "name": "SushiSwap LP VRN/WETH",
+        "symbol": "VRN/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x29c827ce49accf68a1a278c67c9d30c52fbbc348",
+        "name": "SushiSwap LP WETH/VEGA",
+        "symbol": "WETH/VEGA",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x717385e1a702f90b6eb8cd23150702ca7217b626",
+        "name": "SushiSwap LP WETH/COTI",
+        "symbol": "WETH/COTI",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x57fbc21ca3c157a26b6ea57334d6b082be1060a7",
+        "name": "SushiSwap LP BAD/WETH",
+        "symbol": "BAD/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x83b546e10917432a722444672504f0d459472171",
+        "name": "SushiSwap LP USDC/ENTR",
+        "symbol": "USDC/ENTR",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xa914a9b9e03b6af84f9c6bd2e0e8d27d405695db",
+        "name": "SushiSwap LP WETH/FOLD",
+        "symbol": "WETH/FOLD",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x07d5695a24904cc1b6e3bd57cc7780b90618e3c4",
+        "name": "SushiSwap LP MIM/WETH",
+        "symbol": "MIM/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x75382c52b6f90b3f8014bfcadac2386513f1e3bc",
+        "name": "SushiSwap LP RLC/WETH",
+        "symbol": "RLC/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x611cde65dea90918c0078ac0400a72b0d25b9bb1",
+        "name": "SushiSwap LP REN/WETH",
+        "symbol": "REN/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x913e197ab56469be9c6f1f1c84520a2ec8a05ebb",
+        "name": "SushiSwap LP WETH/LYM",
+        "symbol": "WETH/LYM",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xfdf12d1f85b5082877a6e070524f50f6c84faa6b",
+        "name": "SushiSwap LP OHM/LUSD",
+        "symbol": "OHM/LUSD",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xaaf5110db6e744ff70fb339de037b990a20bdace",
+        "name": "SushiSwap LP DAI/USDC",
+        "symbol": "DAI/USDC",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x3c34dad27ab51c51dcc0a322ee4f18519d47f3e1",
+        "name": "SushiSwap LP rETH2/WETH",
+        "symbol": "rETH2/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x7e6782e37278994d1e99f1a5d03309b4b249d919",
+        "name": "SushiSwap LP WETH/GOVI",
+        "symbol": "WETH/GOVI",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xd3e31f8aac930e354283ca3efda1e22525f98af1",
+        "name": "SushiSwap LP PHUNK/WETH",
+        "symbol": "PHUNK/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xdbaa04796cb5c05d02b8a41b702d9b67c13c9fa9",
+        "name": "SushiSwap LP TOWER/WETH",
+        "symbol": "TOWER/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x7a34bbd9db8686bf9c1489a4682825f65eeafa6e",
+        "name": "SushiSwap LP IBY/USDT",
+        "symbol": "IBY/USDT",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x295685c8fe08d8192981d21ea1fe856a07443920",
+        "name": "SushiSwap LP WETH/GODS",
+        "symbol": "WETH/GODS",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xfffae4a0f4ac251f4705717cd24cadccc9f33e06",
+        "name": "SushiSwap LP OHM/WETH",
+        "symbol": "OHM/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x5e63360e891bd60c69445970256c260b0a6a54c6",
+        "name": "SushiSwap LP LEND/WETH",
+        "symbol": "LEND/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xd3c41c080a73181e108e0526475a690f3616a859",
+        "name": "SushiSwap LP DEXTF/WETH",
+        "symbol": "DEXTF/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x22def8cf4e481417cb014d9dc64975ba12e3a184",
+        "name": "SushiSwap LP SDT/WETH",
+        "symbol": "SDT/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x0652687e87a4b8b5370b05bc298ff00d205d9b5f",
+        "name": "SushiSwap LP WETH/ONX",
+        "symbol": "WETH/ONX",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x69b39b89f9274a16e8a19b78e5eb47a4d91dac9e",
+        "name": "SushiSwap LP FARM/WETH",
+        "symbol": "FARM/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xc5578194d457dcce3f272538d1ad52c68d1ce849",
+        "name": "SushiSwap LP DAI/wstETH",
+        "symbol": "DAI/wstETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x41bfba56b9ba48d0a83775d89c247180617266bc",
+        "name": "SushiSwap LP SGT/WETH",
+        "symbol": "SGT/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xb0705c198ed23dcd57259657efe93236e7715c6d",
+        "name": "SushiSwap LP RYOSHI/WETH",
+        "symbol": "RYOSHI/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xb473c2606f7ac371518b13d2d097c34c38ca33d5",
+        "name": "SushiSwap LP TOWER/USDC",
+        "symbol": "TOWER/USDC",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x37fc088cfd67349be00f5504d00ddb7f2274b3f6",
+        "name": "SushiSwap LP XDEFI/WETH",
+        "symbol": "XDEFI/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xd3743fcc49d1d2796447a413be3af274c9231d67",
+        "name": "SushiSwap LP YGG/REVV",
+        "symbol": "YGG/REVV",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x9ebc2a125b1daf3b8a56cb52fa81f89a199e2b38",
+        "name": "SushiSwap LP INSUR/WETH",
+        "symbol": "INSUR/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xaaf448d30f01b429fb6e7f9af6a8ff66e694f312",
+        "name": "SushiSwap LP WETH/USH",
+        "symbol": "WETH/USH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xa39de66d8690d5923fa5e579b19908efb43c8033",
+        "name": "SushiSwap LP EL/USDT",
+        "symbol": "EL/USDT",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x2dfe706831a12f0887115f5de1ca72fce4a1204f",
+        "name": "SushiSwap LP WETH/QTO",
+        "symbol": "WETH/QTO",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x0f82e57804d0b1f6fab2370a43dcfad3c7cb239c",
+        "name": "SushiSwap LP YAM/WETH",
+        "symbol": "YAM/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xef4f1d5007b4ff88c1a56261fec00264af6001fb",
+        "name": "SushiSwap LP PNK/WETH",
+        "symbol": "PNK/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x0eee7f7319013df1f24f5eaf83004fcf9cf49245",
+        "name": "SushiSwap LP BAO/WETH",
+        "symbol": "BAO/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xa7f11e026a0af768d285360a855f2bded3047530",
+        "name": "SushiSwap LP IDLE/WETH",
+        "symbol": "IDLE/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x8b00ee8606cc70c2dce68dea0cefe632cca0fb7b",
+        "name": "SushiSwap LP UST/WETH",
+        "symbol": "UST/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xb06626c2d4b01a302aaf18c841e83c382bd6d61f",
+        "name": "SushiSwap LP WETH/TRDM",
+        "symbol": "WETH/TRDM",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x0c365789dbbb94a29f8720dc465554c587e897db",
+        "name": "SushiSwap LP AXS/WETH",
+        "symbol": "AXS/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x7f8f7dd53d1f3ac1052565e3ff451d7fe666a311",
+        "name": "SushiSwap LP MATIC/WETH",
+        "symbol": "MATIC/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xe62f9cc7241d25030725183fb687547959580f40",
+        "name": "SushiSwap LP PLY/USDT",
+        "symbol": "PLY/USDT",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x81ef0c70fa76c8e7563cb26ee34a2e7f2a77c410",
+        "name": "SushiSwap LP USDC/ARA",
+        "symbol": "USDC/ARA",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x328dfd0139e26cb0fef7b0742b49b0fe4325f821",
+        "name": "SushiSwap LP INV/WETH",
+        "symbol": "INV/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x132eeb05d5cb6829bd34f552cde0b6b708ef5014",
+        "name": "SushiSwap LP VSP/WETH",
+        "symbol": "VSP/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xb2c29e311916a346304f83aa44527092d5bd4f0f",
+        "name": "SushiSwap LP MPH/WETH",
+        "symbol": "MPH/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x53aabccae8c1713a6a150d9981d2ee867d0720e8",
+        "name": "SushiSwap LP WETH/RARI",
+        "symbol": "WETH/RARI",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xf5ca27927ffb16bd8c870dcb49750146cce8217c",
+        "name": "SushiSwap LP WOO/USDC",
+        "symbol": "WOO/USDC",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x98c2f9d752e044dc2e1f1743bf0b76a7096eceb2",
+        "name": "SushiSwap LP USDT/FRONT",
+        "symbol": "USDT/FRONT",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x1ad651a07b98464aa42f6cad68d0ce8639b659a5",
+        "name": "SushiSwap LP WETH/MEZZ",
+        "symbol": "WETH/MEZZ",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x7bc735d6974f6153b1de24e40c0bf5715ca7fe1d",
+        "name": "SushiSwap LP XAI/USDC",
+        "symbol": "XAI/USDC",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xa8aec03d5cf2824fd984ee249493d6d4d6740e61",
+        "name": "SushiSwap LP API3/WETH",
+        "symbol": "API3/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x1c934bc86839b5718a1bdf69880de56f65388531",
+        "name": "SushiSwap LP MODA/WETH",
+        "symbol": "MODA/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x577959c519c24ee6add28ad96d3531bc6878ba34",
+        "name": "SushiSwap LP POOL/WETH",
+        "symbol": "POOL/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x58985d43735a19286a41c5cdd02ed16f85ac9d80",
+        "name": "SushiSwap LP WETH/KEYS",
+        "symbol": "WETH/KEYS",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x9c86bc3c72ab97c2234cba8c6c7069009465ae86",
+        "name": "SushiSwap LP WSCRT/WETH",
+        "symbol": "WSCRT/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x23a9292830fc80db7f563edb28d2fe6fb47f8624",
+        "name": "SushiSwap LP SFI/WETH",
+        "symbol": "SFI/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x760166fa4f227da29ecac3bec348f5fa853a1f3c",
+        "name": "SushiSwap LP TUSD/WETH",
+        "symbol": "TUSD/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x0f337c77b5209ba363ad821ee5b0d6db4964f59b",
+        "name": "SushiSwap LP DAI/IDLE",
+        "symbol": "DAI/IDLE",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xd46004eed3885e0a74d452811c80eb41270a5728",
+        "name": "SushiSwap LP BUILD/DAI",
+        "symbol": "BUILD/DAI",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x5ba61c0a8c4dcccc200cd0ccc40a5725a426d002",
+        "name": "SushiSwap LP INV/DOLA",
+        "symbol": "INV/DOLA",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xbe844f05e3eada9453156e3fe5c39891b4245bc6",
+        "name": "SushiSwap LP KKO/WETH",
+        "symbol": "KKO/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xb27c7b131cf4915bec6c4bc1ce2f33f9ee434b9f",
+        "name": "SushiSwap LP APE/USDT",
+        "symbol": "APE/USDT",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xf8937dc1ca081161527c0bc1eb6379420195c894",
+        "name": "SushiSwap LP BCMC/WETH",
+        "symbol": "BCMC/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x840fdb210cf93318e8a16a51f24938c866a32d3c",
+        "name": "SushiSwap LP CRU/USDT",
+        "symbol": "CRU/USDT",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x26e6a391953169d141df36834acfd9c61d3d4d59",
+        "name": "SushiSwap LP MASQ/WETH",
+        "symbol": "MASQ/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x17a2194d55f52fd0c711e0e42b41975494bb109b",
+        "name": "SushiSwap LP ARMOR/WETH",
+        "symbol": "ARMOR/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x53162d78dca413d9e28cf62799d17a9e278b60e8",
+        "name": "SushiSwap LP APW/WETH",
+        "symbol": "APW/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x3e04863dba602713bb5d0edbf7db7c3a9a2b6027",
+        "name": "SushiSwap LP UwU/WETH",
+        "symbol": "UwU/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x742c15d71ea7444964bc39b0ed729b3729adc361",
+        "name": "SushiSwap LP WETH/OMG",
+        "symbol": "WETH/OMG",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x201e6a9e75df132a8598720433af35fe8d73e94d",
+        "name": "SushiSwap LP ANT/WETH",
+        "symbol": "ANT/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x6463bd6026a2e7bfab5851b62969a92f7cca0eb6",
+        "name": "SushiSwap LP HEGIC/WETH",
+        "symbol": "HEGIC/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x33f6ddaea2a8a54062e021873bcaee006cdf4007",
+        "name": "SushiSwap LP cvxCRV/CRV",
+        "symbol": "cvxCRV/CRV",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xd920a4bda8ecf4ac06ea2897f9a5a38a55e9ac6e",
+        "name": "SushiSwap LP SHPING/WETH",
+        "symbol": "SHPING/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x5fa4370164a2fabeef159b893299d59ff5dc1e6d",
+        "name": "SushiSwap LP BENT/DAI",
+        "symbol": "BENT/DAI",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x2f8ac927aa94293461c75406e90ec0ccfb2748d9",
+        "name": "SushiSwap LP WETH/MLN",
+        "symbol": "WETH/MLN",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xdab6d56915d36060c8d6cf29a7a84910da614603",
+        "name": "SushiSwap LP Metis/WETH",
+        "symbol": "Metis/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x9e48fadf799e0513d2ef4631478ea186741fa617",
+        "name": "SushiSwap LP AERGO/WETH",
+        "symbol": "AERGO/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x364248b2f1f57c5402d244b2d469a35b4c0e9dab",
+        "name": "SushiSwap LP AKRO/WETH",
+        "symbol": "AKRO/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xa3dfbf2933ff3d96177bde4928d0f5840ee55600",
+        "name": "SushiSwap LP DERI/USDT",
+        "symbol": "DERI/USDT",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xd9a1df87e01b31f1154f788041625030af1927be",
+        "name": "SushiSwap LP $TUCKER/WETH",
+        "symbol": "$TUCKER/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x097b21e4784c2b224fd8b880939f75b2e9f4dba5",
+        "name": "SushiSwap LP MIS3/USDT",
+        "symbol": "MIS3/USDT",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xbb19141e045b133169d7c7160c5e54a54cc821b2",
+        "name": "SushiSwap LP GET/WETH",
+        "symbol": "GET/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x90e4ccd73bb850754d4324ca65e00753fb41da51",
+        "name": "SushiSwap LP TOWER/BONDLY",
+        "symbol": "TOWER/BONDLY",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x52dac05fc0000e9f01ce9a1e91592bfbfce87350",
+        "name": "SushiSwap LP LYRA/WETH",
+        "symbol": "LYRA/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x613c836df6695c10f0f4900528b6931441ac5d5a",
+        "name": "SushiSwap LP BOND/WETH",
+        "symbol": "BOND/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x87b918e76c92818db0c76a4e174447aee6e6d23f",
+        "name": "SushiSwap LP MOVE/WETH",
+        "symbol": "MOVE/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x56820f78efd1061d174f7a460cfd9d8e4283069b",
+        "name": "SushiSwap LP GLM/WETH",
+        "symbol": "GLM/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xb270176ba6075196df88b855c3ec7776871fdb33",
+        "name": "SushiSwap LP TORN/WETH",
+        "symbol": "TORN/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x6f81427d641f865a3a4050ec220474b65599d543",
+        "name": "SushiSwap LP TOWER/REVV",
+        "symbol": "TOWER/REVV",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x17890deb188f2de6c3e966e053da1c9a111ed4a5",
+        "name": "SushiSwap LP USDC/CQT",
+        "symbol": "USDC/CQT",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xa7a8edfda2b8bf1e5084e2765811effee21ef918",
+        "name": "SushiSwap LP WXRP/WETH",
+        "symbol": "WXRP/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x7835cb043e8d53a5b361d489956d6c30808349da",
+        "name": "SushiSwap LP WBTC/POLY",
+        "symbol": "WBTC/POLY",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x04444d365324134e58104b1d874d00dc68dcea53",
+        "name": "SushiSwap LP NU/WETH",
+        "symbol": "NU/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0xbbbdb106a806173d1eea1640961533ff3114d69a",
+        "name": "SushiSwap LP XYZ/USDC",
+        "symbol": "XYZ/USDC",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      },
+      {
+        "chainId": 1,
+        "address": "0x51c1dc85f57fdaf591606e2adcc34adc96b04006",
+        "name": "SushiSwap LP LMT/WETH",
+        "symbol": "LMT/WETH",
+        "decimals": 18,
+        "logoURI": "https://assets.coingecko.com/coins/images/12271/large/512x512_Logo_no_chop.png"
+      }
   ]
 }
