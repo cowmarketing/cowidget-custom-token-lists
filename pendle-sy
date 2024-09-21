@@ -1,0 +1,487 @@
+{
+  "name": "Pendle-SY",
+  "timestamp": "2024-09-16T15:00:00+00:00",
+  "version": {
+    "major": 2,
+    "minor": 44,
+    "patch": 0
+  },
+  "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/list-logo.png",
+  "keywords": [
+    "Pendle"
+  ],
+  "tokens": [
+    {
+      "symbol": "SY-sUSDE",
+      "name": "SY Ethena sUSDE",
+      "address": "0x4139cdc6345affbac0692b43bed4d059df3e6d65",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-weETH",
+      "name": "SY ether.fi weETH",
+      "address": "0xac0047886a985071476a1186be89222659970d65",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY pufETH",
+      "name": "SY Puffer ETH",
+      "address": "0x253008ba4ae2f3e6488dc998a5321d4eb1a0c905",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-sUSDE",
+      "name": "SY Ethena sUSDE",
+      "address": "0x1605a410c8480a18a3e958faff3b6d2834fbae22",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-ezETH",
+      "name": "SY Renzo ezETH",
+      "address": "0x22e12a50e3ca49fb183074235cb1db84fe4c716d",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-USD0++",
+      "name": "SY USD0++",
+      "address": "0x47bce1bb5d9a9072161ec25009bcd6e8d367b7d3",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-sUSDE",
+      "name": "SY Ethena sUSDE",
+      "address": "0xd288755556c235afffb6316702719c32bd8706e8",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-agETH",
+      "name": "SY Kelp Gain",
+      "address": "0xb1b9150f2085f6a553b547099977181ca802752a",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-pzETH",
+      "name": "SY Mellow pzETH",
+      "address": "0x9309bcd974cd13457eab1383539b46c93e90b66a",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-weETHs",
+      "name": "SY Super Symbiotic LRT",
+      "address": "0x9e8f10574acc2c62c6e5d19500ced39163da37a9",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-cornLBTC",
+      "name": "SY Corn Lombard LBTC",
+      "address": "0x9d6ec7a7b051b32205f74b140a0fa6f09d7f223e",
+      "decimals": 8,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-rsETH",
+      "name": "SY Kelp rsETH",
+      "address": "0x730a5e2acebccaa5e9095723b3cb862739da793c",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-stETH",
+      "name": "SY stETH",
+      "address": "0xcbc72d92b2dc8187414f6734718563898740c0bc",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-USDe",
+      "name": "SY Ethena USDe",
+      "address": "0xd29a7d69cf5f06ccd777e53d6e437032804abf89",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-rswETH",
+      "name": "SY rswETH",
+      "address": "0x7786729eee8b9d30fe7d91fdff23a0f1d0c615d9",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-USDe",
+      "name": "SY Ethena USDe",
+      "address": "0x3d99935c992cb9fb9d86acf9082aacf1bd5bcae4",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-corn-SolvBTC.BBN",
+      "name": "SY Corn SolvBTC Babylon",
+      "address": "0xec30e55b51d9518cfcf5e870bcf89c73f5708f72",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-ENA",
+      "name": "SY ENA",
+      "address": "0x1a7096563c94029dfd55e625a19f099726ac4f3f",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-USDe",
+      "name": "SY Ethena USDe",
+      "address": "0x42862f48eade25661558afe0a630b132038553d0",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-corn-uniBTC",
+      "name": "SY Corn Bedrock uniBTC",
+      "address": "0xae754a3b4553ea2ea4794d0171a56ac12fdb2782",
+      "decimals": 8,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-steakLRT",
+      "name": "SY Mellow Steakhouse steakLRT",
+      "address": "0x998a1d40f097fd36bff15ca78fc0673bd2a8280c",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-sw2Rsweth",
+      "name": "SY Swell L2 Deposit RswETH",
+      "address": "0x4f3a7a07a968b67f1f9692b70242f10e665d38ad",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-zs-ezETH",
+      "name": "SY Zircuit Staking ezETH",
+      "address": "0x7a493be5c2ce014cd049bf178a1ac0db1b434744",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-uniETH",
+      "name": "SY Bedrock UniETH",
+      "address": "0xc430db19339a3051192233b4c49f9ab3dc6d16b7",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-ETHx",
+      "name": "SY Stader Staking ETHx",
+      "address": "0xcb166f0148ae815313039d735e28fcec617b21fe",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-sUSDE",
+      "name": "SY Ethena sUSDE",
+      "address": "0xc4ed348c56223c5953939e932e315f9d72cd83ff",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-sfrxETH",
+      "name": "SY sfrxETH",
+      "address": "0xeb83006b0aaddd15ad8afbebe2f4e0937f210673",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-zs-weETH",
+      "name": "SY Zircuit Ether.fi weETH",
+      "address": "0xd7df7e085214743530aff339afc420c7c720bfa7",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-swETH",
+      "name": "SY swETH",
+      "address": "0xaa68ca9c69a4ff22203ce189ce4448d7401875e8",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-ePendle",
+      "name": "SY ePendle",
+      "address": "0x887bdd18d042a85b9c702698efe71e1c38d5c868",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-zs-rsETH",
+      "name": "SY Zircuit Staking rsETH",
+      "address": "0x34349c5569e7b846c3558961552d2202760a9789",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-sDAI",
+      "name": "SY sDAI",
+      "address": "0x90f1935f733dd8826dca2bd01ccfc600f20e978e",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-ENA",
+      "name": "SY ENA",
+      "address": "0x66c68a7bcc4cbcab43a2947a529765d86d4ef14f",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-sfPEPE",
+      "name": "SY Sophon Farming PEPE",
+      "address": "0x065347c1dd7a23aa043e3844b4d0746ff7715246",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-sUSDE",
+      "name": "SY Ethena sUSDE",
+      "address": "0x3ee118efc826d30a29645eaf3b2eaac9e8320185",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-zs-USDe",
+      "name": "SY Zircuit Staking USDe",
+      "address": "0x293c6937d8d82e05b01335f7b33fba0c8e256e30",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-zs-USDe",
+      "name": "SY Zircuit Staking USDe",
+      "address": "0xd24cfe2d0fa81369ca6291c28ac5426e16b6d57a",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-swETH-BbAWeth_BalancerLP Aura",
+      "name": "SY swETH-BbAWeth_BalancerLP Aura",
+      "address": "0xcb6ea7fddfdf2afc2bc6bf715185a33f8e27b96b",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-Silo-crvUSD",
+      "name": "SY Silo crvUSD",
+      "address": "0x60d1afd87c5ab1a13e27638f1e75277febf4908c",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-ETHx-BbAWeth_BalancerLP Aura",
+      "name": "SY ETHx-BbAWeth_BalancerLP Aura",
+      "address": "0xba72de8b5b56552e537994dddfe82e7ce43409f5",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-aUSDT",
+      "name": "SY aUSDT",
+      "address": "0x8c28d28bad669afadc37b034a8070d6d7b9dfb74",
+      "decimals": 6,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-fUSDC",
+      "name": "SY fUSDC",
+      "address": "0xf94a3798b18140b9bc322314bbd36bc8e245e29b",
+      "decimals": 8,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-REZtake",
+      "name": "SY Renzo REZ Staking",
+      "address": "0x54264c1b0355c71a678d5a171ca796429ddcb4f4",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-USDe",
+      "name": "SY Ethena USDe",
+      "address": "0x248d83f7ac03cebcc06d5c1a52c9b5d0ebb9936e",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-oETH",
+      "name": "SY oETH",
+      "address": "0x0a26e7ab5c554232314a8d459eff0ede72333f08",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "sAPE",
+      "name": "sAPE",
+      "address": "0x47ba20283be4d72d4afb1862994f4203551539c5",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-sUSDE",
+      "name": "SY Ethena sUSDE",
+      "address": "0x215a61dead7e1303b8571bb429491aeac5f2061e",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-eUSD",
+      "name": "SY eUSD",
+      "address": "0x7e16e4253ce4a1c96422a9567b23b4b5ebc207f1",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-USDe",
+      "name": "SY Ethena USDe",
+      "address": "0x4db99b79361f98865230f5702de024c69f629fec",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-stTAO",
+      "name": "SY Tensorplex Staked TAO",
+      "address": "0x60ccefd60ba522f9221f122bb80a1e8cbab9285f",
+      "decimals": 9,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-Stargate USDT",
+      "name": "SY Stargate USDT",
+      "address": "0x3025680925349c9c01c0f01cf300ec963832ec64",
+      "decimals": 6,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-rETH-WETH_BalancerLP Aura",
+      "name": "SY rETH-WETH_BalancerLP Aura",
+      "address": "0xdf7083f2a0f8a191ab5eeafebe92ed21cd3dd915",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-swETH-BbAWeth_BalancerLP Aura",
+      "name": "SY swETH-BbAWeth_BalancerLP Aura",
+      "address": "0xcb611d0bd02a74c491b75d51d6ea5558f1887da3",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-rETH-WETH_BalancerLP Aura",
+      "name": "SY rETH-WETH_BalancerLP Aura",
+      "address": "0xc0dd85720e3bc7959890127b5d3af2d29f6c74f4",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-wstETH-ankrETH_BalancerLP Aura",
+      "name": "SY wstETH-ankrETH_BalancerLP Aura",
+      "address": "0xb5cd090010d4735f18306eb680d898ef9f36f044",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-ankrETH-WETH_BalancerLP Aura",
+      "name": "SY ankrETH-WETH_BalancerLP Aura",
+      "address": "0x7f531a70a240fba0e40169e56eede1c6b7ef8463",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-Silo crvUSD",
+      "name": "SY Silo crvUSD",
+      "address": "0xe05082b184a34668cd8a904d85fa815802bbb04c",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-Stafi rETH-WETH_BalancerLP Aura",
+      "name": "SY Stafi rETH-WETH_BalancerLP Aura",
+      "address": "0x677885afde857b70f40741ff8b60f9afba95dd49",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    },
+    {
+      "symbol": "SY-ankrETH-WETH_BalancerLP Aura",
+      "name": "SY ankrETH-WETH_BalancerLP Aura",
+      "address": "0xc0ca1e345be44ea2c83202222e5084ae3a01e9dc",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://assets.coingecko.com/coins/images/15069/large/Pendle_Logo_Normal-03.png"
+    }
+  ]
+}
