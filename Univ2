@@ -8,13 +8,9 @@
     },
   "logoURI": "https://raw.githubusercontent.com/cowprotocol/token-lists/main/src/public/images/list-logo.png",
   "keywords": [
-    "default",
-    "list",
     "Univ2"
   ],
-
   "tokens": [
-   [
   {
     "chainId": 1,
     "address": "0x21b8065d10f73ee2e260e5b47d3344d3ced7596e",
