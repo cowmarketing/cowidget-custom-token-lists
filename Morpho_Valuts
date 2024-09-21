@@ -10,6 +10,7 @@
   "keywords": [
     "Morpho Vaults"
   ],
+{
   "tokens": [
   {
     "symbol": "USUALUSDC+",
@@ -277,3 +278,4 @@
   }  
   ]
 }
+
